@@ -1,0 +1,1079 @@
+{
+  "items": [
+    {
+      "description": "Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stuff.",
+      "items": [],
+      "title": "MultiversX official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Smart Contract examples",
+          "description": "A bunch of useful smart contract examples from the MultiversX team",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T16:26:41Z",
+            "owner": "multiversx",
+            "repo": "mx-sdk-rs",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exchange",
+          "description": "These are the core Smart Contracts and the foundation exchange.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T14:34:12Z",
+            "owner": "multiversx",
+            "repo": "mx-exchange-sc",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethereum bridge",
+          "description": "Smart Contracts on the MultiversX side for MultiversX-Ethereum bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-10-09T08:06:59Z",
+            "owner": "multiversx",
+            "repo": "mx-bridge-eth-sc-rs",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFT Marketplace",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-02-01T12:39:36Z",
+            "owner": "multiversx",
+            "repo": "mx-nft-marketplace-sc",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFT Collection Minter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-11T12:44:18Z",
+            "owner": "multiversx",
+            "repo": "mx-nft-collection-minter-sc",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Liquid Staking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-10-21T17:53:08Z",
+            "owner": "multiversx",
+            "repo": "mx-liquid-staking-sc",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xExchange tools",
+          "description": "Smart contracts on top of the xExchange functionality as extensions for better UX",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-24T08:57:23Z",
+            "owner": "multiversx",
+            "repo": "mx-exchange-tools-sc",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metabonding",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-28T08:02:32Z",
+            "owner": "multiversx",
+            "repo": "mx-metabonding-sc",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Smart contracts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wasm framework",
+          "description": "Rust smart contract library designed for MultiversX VM. Also provides a debugging mode with mocks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T16:26:41Z",
+            "owner": "multiversx",
+            "repo": "mx-sdk-rs",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python SDK",
+          "description": "Command line tools and Python SDK for interacting with the MultiversX Network and MultiversX Smart Contracts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T08:48:58Z",
+            "owner": "multiversx",
+            "repo": "mx-sdk-py-cli",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Dapp SDK",
+          "description": "A library that holds the core functional logic of a dapp on the MultiversX",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T06:35:34Z",
+            "owner": "multiversx",
+            "repo": "mx-sdk-dapp",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Javascript SDK",
+          "description": "Official TS/JS SDK for interacting with the MultiversX Network and MultiversX Smart Contracts using Javascript (written in Typescript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T11:18:38Z",
+            "owner": "multiversx",
+            "repo": "mx-sdk-js-core",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go SDK",
+          "description": "Go helpers and utilities for interacting with the MultiversX Blockchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-17T13:38:02Z",
+            "owner": "multiversx",
+            "repo": "mx-sdk-go",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NestJS SDK",
+          "description": "This package contains a set of utilities commonly used in the MultiversX Microservice ecosystem",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-23T09:58:18Z",
+            "owner": "multiversx",
+            "repo": "mx-sdk-nestjs",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JS SDK examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-20T13:58:28Z",
+            "owner": "multiversx",
+            "repo": "mx-sdk-js-examples",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP SDK",
+          "description": "MultiversX PHP SDK for interacting with the MultiversX blockchain (in general) and Smart Contracts (in particular).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-22T08:33:50Z",
+            "owner": "multiversx",
+            "repo": "mx-sdk-php",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dapp SC Explorer SDK",
+          "description": "A library to hold the main logic for Smart Contract Interactions on the MultiversX blockchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T14:33:23Z",
+            "owner": "multiversx",
+            "repo": "mx-sdk-dapp-sc-explorer",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "SDKs and dev tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MultiversX dApp template",
+          "description": "The official dApp template provided by the MultiversX team using React.js & Typescript. It's a basic implementation of @multiversx/sdk-dapp, providing the basics for MultiversX authentication and TX signing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-16T09:44:52Z",
+            "owner": "multiversx",
+            "repo": "mx-template-dapp",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFT service",
+          "description": "GraphQl service to provide information regarding NFTs and auctions on MultiversX Blockchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-08T16:13:55Z",
+            "owner": "multiversx",
+            "repo": "mx-nft-service",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xExchange service",
+          "description": "Decentralized Exchange Service based on GraphQL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T09:48:18Z",
+            "owner": "multiversx",
+            "repo": "mx-exchange-service",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trusted Co-Signer Service",
+          "description": "It is the component that automates most of the Guardian processes and makes it easy for users to turn wallets into unbreakable vaults",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-17T14:32:01Z",
+            "owner": "multiversx",
+            "repo": "mx-multi-factor-auth-go-service",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Dev dApps"
+    },
+    {
+      "description": "Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stuff.",
+      "items": [],
+      "title": "MultiversX community"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Elven Tools NFT Minter Smart Contract",
+          "description": "Mint and sell NFT collections. It has features like issue collection, setting creation role, pause/unpause, random minting, giveaway, split minting into batches, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-18T16:51:26Z",
+            "owner": "ElvenTools",
+            "repo": "elven-nft-minter-sc",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Piggybank Smart Contract",
+          "description": "smart contract for learning purposes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-22T12:14:52Z",
+            "owner": "xdevguild",
+            "repo": "piggy-bank-sc",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiversX Lending & Borrowing Protocol",
+          "description": "where lending, borrowing, and managing your digital assets is not only secure and efficient, but also a fun and flexible experience!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-16T20:29:45Z",
+            "owner": "XOXNO",
+            "repo": "rs-lending",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xBulk",
+          "description": "smart contract for handling bulk transactions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-17T08:34:28Z",
+            "owner": "DBCodingSRL",
+            "repo": "xBulk",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AshSwap Aggregator Smart Contract",
+          "description": "Aggregator smart contracts act as an intermediary router to exchange tokens between multiple protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-21T13:48:08Z",
+            "owner": "ashswap",
+            "repo": "ash-aggregator-sc",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Presale Smart Contract",
+          "description": "Token Presale with Packs. Each pack has given EGLD amount and bonus percentage for the presale token",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-05-22T00:53:55Z",
+            "owner": "xdevguild",
+            "repo": "elrond-pack-presale-sc",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi Sender smart contract",
+          "description": "A multi-sender smart contract that allows you to send EGLD, ESDTs, and NFTs to multiple addresses in one transaction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-08-19T15:14:30Z",
+            "owner": "xdevguild",
+            "repo": "sc-multi-sender-rs",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elven Tools SFT Minter Smart Contract",
+          "description": "SFT minter and vending machine smart contract",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-18T16:41:31Z",
+            "owner": "ElvenTools",
+            "repo": "elven-tools-sft-minter-sc",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFTs based on inscriptions",
+          "description": "NFTs with data on-chain, thanks to inscriptions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-01-14T09:46:55Z",
+            "owner": "XOXNO",
+            "repo": "rs-inscriptions",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESDT Faucet SC",
+          "description": "ESDT Faucet - claim, deposit ESDT tokens",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-03-10T11:53:06Z",
+            "owner": "xdevguild",
+            "repo": "esdt-faucet-sc",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fundraising-SC",
+          "description": "MultiversX Fundraising Smart Contract allowing the creation of pots with or without objectives, with or without deadlines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-05-08T08:43:03Z",
+            "owner": "Gwordo87",
+            "repo": "Fundraising-SC",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vesting SC",
+          "description": "Token vesting smart contract",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-01T13:14:49Z",
+            "owner": "Moonlorian",
+            "repo": "vesting-dapp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nifty Maze & Proxy Ping Smart Contracts",
+          "description": "smart-contract-based mini-game",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-11-17T23:05:41Z",
+            "owner": "NiftyWell",
+            "repo": "nifty-maze",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PublicFlashLoansSC",
+          "description": "Flash Loans on top of MultiversX xExchange",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-11-15T17:59:58Z",
+            "owner": "PierreBlg",
+            "repo": "PublicFlashLoansSC",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Middleman.nft Smart Contract",
+          "description": "Create or delete offers for a P2P exchange between two known users. Simple smart contract and its associated snippets.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "eNftMemes Smart Contracts",
+          "description": "Smart contracts code for the https://enftmemes.com. Includes decentralized voting, computing of a Top 10 based on votes, creating NFT & updating attributes, signature verification with example, etc",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "CoinDrip Protocol",
+          "description": "Token (ESDT) streaming smart contract",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Pulsar Money Smart Payment Contract",
+          "description": "Pulsar Money is dedicated to redefining digital transfers and offers a suit of Smart Payments Modules.",
+          "children": []
+        }
+      ],
+      "title": "Smart contracts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JS SDK with NextJS dapp template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-30T06:25:40Z",
+            "owner": "xdevguild",
+            "repo": "nextjs-dapp-template",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AssemblyScript framework for MultiversX VM",
+          "description": "AssemblyScript smart contract library designed for Elrond's VM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-12T15:21:20Z",
+            "owner": "gfusee",
+            "repo": "mx-sdk-as",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buildo Begins",
+          "description": "CLI tool that uses JS SDK. Its primary purpose is to simplify interaction with the Elrond blockchain and smart contracts - sending tokens, issuing, also API interactions - custom filtering and exports (still WIP, but functional)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-29T23:09:18Z",
+            "owner": "xdevguild",
+            "repo": "buildo-begins",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elven Tools CLI",
+          "description": "The CLI tool for deploying and interacting with the Elven Tools NFT Minter SC. But not only limited to that.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-14T17:06:19Z",
+            "owner": "ElvenTools",
+            "repo": "elven-tools-cli",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NovaX",
+          "description": "NovaX is your go-to toolkit for building robust software seamlessly interacting with the MultiversX blockchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-18T16:46:36Z",
+            "owner": "gfusee",
+            "repo": "novax",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextJS dApp template",
+          "description": "by Elrond Giants - A dApp template made using JS SDK & nextjs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-27T11:14:53Z",
+            "owner": "elrond-giants",
+            "repo": "erd-next-starter",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xSuite",
+          "description": "Init, Build, Test, Deploy MultiversX smart contracts in seconds. The full suite for efficiently developing high-quality contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-21T15:42:24Z",
+            "owner": "arda-org",
+            "repo": "xSuite",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiversX Unity Tools",
+          "description": "A work-in-progress set of tools to interact with MultiversX Blockchain directly from a Unity app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-21T13:13:58Z",
+            "owner": "chainofindustry",
+            "repo": "MultiversXUnityTools",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiversX SDK for Laravel",
+          "description": "MultiversX SDK for Laravel (written in PHP)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-05-05T08:34:00Z",
+            "owner": "PeerMeHQ",
+            "repo": "mx-sdk-laravel",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xNetwork",
+          "description": "This project provides an easy way to run a local testnet of MultiversX and its associated API, with no configuration required",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-15T15:27:07Z",
+            "owner": "gfusee",
+            "repo": "xnetwork",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ABI2API",
+          "description": "ABI2API is a Python library for converting smart contract ABI (Application Binary Interface) on the MultiversX blockchain into a RESTful API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-07T09:51:28Z",
+            "owner": "SkullElf",
+            "repo": "ABI2API",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Boot Starter Reactive",
+          "description": "Spring Boot Starter project for integrating with the MultiversX Network, with the goal of achieving an effortless autoconfigured integration with the network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-10-05T11:17:15Z",
+            "owner": "ezalabs",
+            "repo": "multiversx-spring-boot-starter-reactive",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiversX API Deployer",
+          "description": "Effortlessly deploy a complete infrastructure to run your own MultiversX API in just a few steps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-03-24T23:11:00Z",
+            "owner": "PhyByte",
+            "repo": "mvx-api-deployer",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESDT Distribution script",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-21T09:02:34Z",
+            "owner": "Combased",
+            "repo": "elrond-lkmex-distribution",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "erd-react-hooks",
+          "description": "by Elrond Giants - This is a library of React hooks built for the MultiversX ecosystem. It aims to make it easy to authenticate, sign and send transactions, and query smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-31T13:49:43Z",
+            "owner": "elrond-giants",
+            "repo": "erd-react-hooks",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elrondex",
+          "description": "Elixir library to interact with Elrond Blockchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2023-03-10T21:32:15Z",
+            "owner": "elrondex",
+            "repo": "elrondex",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MxOps",
+          "description": "Python package to automate MultiversX smart contracts interactions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-09T11:41:43Z",
+            "owner": "Catenscia",
+            "repo": "MxOps",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React + Vite dApp template",
+          "description": "This template makes it easy to quickly get started building dApps on MultiversX, providing the basics for MultiversX authentication and transaction signing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-16T21:00:15Z",
+            "owner": "devaccent",
+            "repo": "mvx-dapp-template",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust SDK",
+          "description": "Elrond Rust SDK for interacting with the Elrond Network and Smart Contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-29T03:26:54Z",
+            "owner": "bicarus-labs",
+            "repo": "elrond-sdk-erdrs",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "erdjs-auth",
+          "description": "by Elrond Giants - This library aims to make it easy to authenticate and sign transactions. It offers a common interface for all auth providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-20T07:18:42Z",
+            "owner": "elrond-giants",
+            "repo": "erdjs-auth",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mx.NET.SDK",
+          "description": "MultiversX .NET SDK: Complex library for interacting with MultiversX blockchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-16T16:29:41Z",
+            "owner": "RemarkableTools",
+            "repo": "Mx.NET.SDK",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mx.Blazor.DApp",
+          "description": "Blazor DApp is a template application built using the Blazor UI framework and ASP.NET Core server application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-29T19:55:48Z",
+            "owner": "RemarkableTools",
+            "repo": "Mx.Blazor.DApp",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ABIExtractor",
+          "description": "ABI Extractor is a Python tool designed to extract ABI JSONs, and smart contract (SC) addresses from dApp JavaScript files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-16T16:46:58Z",
+            "owner": "SkullElf",
+            "repo": "ABIExtractor",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LKMEX airdrop",
+          "description": "Python script that performs an airdrop of LKMEX to NFT holders",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-21T10:07:27Z",
+            "owner": "xdevguild",
+            "repo": "esdt-and-egld-airdrop-scripts",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust Utilities by Angry-Penguins-Colony",
+          "description": "Utilities to manipulate ManagedBuffer, ManagedVec and array",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-31T12:29:05Z",
+            "owner": "Angry-Penguins-Colony",
+            "repo": "mx-rust-utilities",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mx.NET.SDK.WalletProviders",
+          "description": "MultiversX .NET SDK: Unique library for interacting with Wallet Providers. Create connection and sign transactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-30T14:48:09Z",
+            "owner": "RemarkableTools",
+            "repo": "Mx.NET.SDK.WalletProviders",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mxbi",
+          "description": "mxbi is a command-line interface (CLI) tool that generates graphql backend code for MX smart contract endpoints",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-16T04:00:28Z",
+            "owner": "VortX-DAO",
+            "repo": "mxbi",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Golang SDK",
+          "description": "MultiversX Golang SDK by Staking Agency",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-09-18T07:38:57Z",
+            "owner": "stakingagency",
+            "repo": "sa-mx-sdk-go",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mx-chain-simulator-interface-rs",
+          "description": "Rust crate that allows you to create a local blockchain in the simulation mode in seconds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-04T14:08:05Z",
+            "owner": "gfusee",
+            "repo": "mx-chain-simulator-interface-rs",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JS SDK with VueJS dapp template",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "mx-xportalhub-chrome",
+          "description": "Chrome extension for testing XportalHub integration.",
+          "children": []
+        }
+      ],
+      "title": "SDKs and dev tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Elven Tools Dapp",
+          "description": "The dapp used by Elven Tools project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-14T16:23:51Z",
+            "owner": "ElvenTools",
+            "repo": "elven-tools-dapp",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buildo.dev",
+          "description": "Buildo.dev is a MultiversX app that helps with blockchain interactions, like issuing, managing tokens and querying smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-08T15:12:57Z",
+            "owner": "xdevguild",
+            "repo": "buildo.dev",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vanity Address Generator",
+          "description": "An open-source custom wallet generator for MultiversX",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-03T15:45:13Z",
+            "owner": "BubuMVX",
+            "repo": "mvx-vanity-address",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Middleman.nft",
+          "description": "A secure way to exchange NFTs with a smart contract that acts as a trusted third party. Open source code of the frontend here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-06-22T09:03:28Z",
+            "owner": "yum0e",
+            "repo": "front-nft-middleman",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vesting dApp",
+          "description": "Token vesting dApp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-01T13:14:49Z",
+            "owner": "Moonlorian",
+            "repo": "vesting-dapp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESDT Faucet Dapp",
+          "description": "The ESDT tokens faucet app for the devnet/testnet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-10T12:07:59Z",
+            "owner": "xdevguild",
+            "repo": "esdt-faucet-dapp",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Dapps Source Code"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:24:13.645Z",
+    "original_repository": "xdevguild/awesome-multiversx-dev-resources",
+    "original_repository_sha": "ae34ab07d659497b3dceb1ede2b91bd1e8894234",
+    "enhanced_repository": "enhansome/enhansome-multiversx-dev-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome MultiversX Dev Resources with stars"
+  }
+}
