@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T16:26:41Z",
+            "last_commit": "2026-08-14T09:41:27Z",
             "owner": "multiversx",
             "repo": "mx-sdk-rs",
             "stars": 195
@@ -134,7 +134,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T16:26:41Z",
+            "last_commit": "2026-08-14T09:41:27Z",
             "owner": "multiversx",
             "repo": "mx-sdk-rs",
             "stars": 195
@@ -1069,7 +1069,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:24:13.645Z",
+    "last_updated": "2026-08-14T17:16:36.640Z",
     "original_repository": "xdevguild/awesome-multiversx-dev-resources",
     "original_repository_sha": "ae34ab07d659497b3dceb1ede2b91bd1e8894234",
     "enhanced_repository": "enhansome/enhansome-multiversx-dev-resources",
