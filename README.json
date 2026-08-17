@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T14:34:12Z",
+            "last_commit": "2026-08-17T12:26:34Z",
             "owner": "multiversx",
             "repo": "mx-exchange-sc",
             "stars": 106
@@ -1069,7 +1069,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T16:45:55.599Z",
+    "last_updated": "2026-08-17T16:50:33.082Z",
     "original_repository": "xdevguild/awesome-multiversx-dev-resources",
     "original_repository_sha": "ae34ab07d659497b3dceb1ede2b91bd1e8894234",
     "enhanced_repository": "enhansome/enhansome-multiversx-dev-resources",

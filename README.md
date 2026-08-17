@@ -33,7 +33,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 ### Smart contracts
 
 * [Smart Contract examples](https://github.com/multiversx/mx-sdk-rs/tree/master/contracts/examples) ⭐ 195 | 🐛 44 | 🌐 Rust | 📅 2026-08-14 - A bunch of useful smart contract examples from the MultiversX team
-* [Exchange](https://github.com/multiversx/mx-exchange-sc) ⭐ 106 | 🐛 43 | 🌐 Rust | 📅 2026-08-11 - These are the core Smart Contracts and the foundation exchange.
+* [Exchange](https://github.com/multiversx/mx-exchange-sc) ⭐ 106 | 🐛 43 | 🌐 Rust | 📅 2026-08-17 - These are the core Smart Contracts and the foundation exchange.
 * [Ethereum bridge](https://github.com/multiversx/mx-bridge-eth-sc-rs) ⭐ 23 | 🐛 9 | 🌐 Rust | 📅 2025-10-09 - Smart Contracts on the MultiversX side for MultiversX-Ethereum bridge.
 * [NFT Marketplace](https://github.com/multiversx/mx-nft-marketplace-sc) ⭐ 21 | 🐛 1 | 🌐 Rust | 📅 2023-02-01
 * [NFT Collection Minter](https://github.com/multiversx/mx-nft-collection-minter-sc) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2025-04-11
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
