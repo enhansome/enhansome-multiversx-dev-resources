@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 342608525,
                 "language": "Rust",
-                "last_commit": "2026-08-17T12:26:34Z",
+                "last_commit": "2026-08-20T11:38:54Z",
                 "owner": "multiversx",
                 "repo": "mx-exchange-sc",
                 "stars": 106
@@ -313,7 +313,7 @@
                 "archived": false,
                 "id": 354647611,
                 "language": "TypeScript",
-                "last_commit": "2026-08-10T09:48:18Z",
+                "last_commit": "2026-08-20T15:06:32Z",
                 "owner": "multiversx",
                 "repo": "mx-exchange-service",
                 "stars": 14
@@ -328,7 +328,7 @@
                 "archived": false,
                 "id": 526187995,
                 "language": "Go",
-                "last_commit": "2025-07-17T14:32:01Z",
+                "last_commit": "2026-08-20T15:30:10Z",
                 "owner": "multiversx",
                 "repo": "mx-multi-factor-auth-go-service",
                 "stars": 3
@@ -1106,7 +1106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:52:03.262Z",
+    "last_updated": "2026-08-20T16:56:47.632Z",
     "original_repository": "xdevguild/awesome-multiversx-dev-resources",
     "original_repository_id": 488164703,
     "original_repository_sha": "ae34ab07d659497b3dceb1ede2b91bd1e8894234",
