@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 432991695,
                 "language": "TypeScript",
-                "last_commit": "2026-07-14T06:35:34Z",
+                "last_commit": "2026-08-21T15:58:39Z",
                 "owner": "multiversx",
                 "repo": "mx-sdk-dapp",
                 "stars": 84
@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 371399014,
                 "language": "TypeScript",
-                "last_commit": "2026-07-27T11:18:38Z",
+                "last_commit": "2026-08-21T11:35:19Z",
                 "owner": "multiversx",
                 "repo": "mx-sdk-js-core",
                 "stars": 73
@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 371374147,
                 "language": "Go",
-                "last_commit": "2025-10-17T13:38:02Z",
+                "last_commit": "2026-08-21T11:49:43Z",
                 "owner": "multiversx",
                 "repo": "mx-sdk-go",
                 "stars": 17
@@ -313,7 +313,7 @@
                 "archived": false,
                 "id": 354647611,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T15:06:32Z",
+                "last_commit": "2026-08-21T07:21:56Z",
                 "owner": "multiversx",
                 "repo": "mx-exchange-service",
                 "stars": 14
@@ -328,7 +328,7 @@
                 "archived": false,
                 "id": 526187995,
                 "language": "Go",
-                "last_commit": "2026-08-20T15:30:10Z",
+                "last_commit": "2026-08-21T11:50:54Z",
                 "owner": "multiversx",
                 "repo": "mx-multi-factor-auth-go-service",
                 "stars": 3
@@ -1106,7 +1106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:56:47.632Z",
+    "last_updated": "2026-08-21T16:56:41.762Z",
     "original_repository": "xdevguild/awesome-multiversx-dev-resources",
     "original_repository_id": 488164703,
     "original_repository_sha": "ae34ab07d659497b3dceb1ede2b91bd1e8894234",
