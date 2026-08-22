@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 432991695,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:58:39Z",
+                "last_commit": "2026-08-22T14:01:35Z",
                 "owner": "multiversx",
                 "repo": "mx-sdk-dapp",
                 "stars": 84
@@ -1106,7 +1106,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:56:41.762Z",
+    "last_updated": "2026-08-22T16:45:26.265Z",
     "original_repository": "xdevguild/awesome-multiversx-dev-resources",
     "original_repository_id": 488164703,
     "original_repository_sha": "ae34ab07d659497b3dceb1ede2b91bd1e8894234",

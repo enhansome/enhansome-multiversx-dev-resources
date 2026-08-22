@@ -45,7 +45,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 
 * [Wasm framework](https://github.com/multiversx/mx-sdk-rs) ⭐ 195 | 🐛 44 | 🌐 Rust | 📅 2026-08-14 - Rust smart contract library designed for MultiversX VM. Also provides a debugging mode with mocks
 * [Python SDK](https://github.com/multiversx/mx-sdk-py-cli) ⭐ 191 | 🐛 6 | 🌐 Python | 📅 2026-07-27 - Command line tools and Python SDK for interacting with the MultiversX Network and MultiversX Smart Contracts
-* [React Dapp SDK](https://github.com/multiversx/mx-sdk-dapp) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 - A library that holds the core functional logic of a dapp on the MultiversX
+* [React Dapp SDK](https://github.com/multiversx/mx-sdk-dapp) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22 - A library that holds the core functional logic of a dapp on the MultiversX
 * [Javascript SDK](https://github.com/multiversx/mx-sdk-js-core) ⭐ 73 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-21 - Official TS/JS SDK for interacting with the MultiversX Network and MultiversX Smart Contracts using Javascript (written in Typescript)
 * [Go SDK](https://github.com/multiversx/mx-sdk-go) ⭐ 17 | 🐛 14 | 🌐 Go | 📅 2026-08-21 - Go helpers and utilities for interacting with the MultiversX Blockchain
 * [NestJS SDK](https://github.com/multiversx/mx-sdk-nestjs) ⭐ 13 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-23 - This package contains a set of utilities commonly used in the MultiversX Microservice ecosystem
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
