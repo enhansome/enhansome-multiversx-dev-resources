@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 342608525,
                 "language": "Rust",
-                "last_commit": "2026-08-20T11:38:54Z",
+                "last_commit": "2026-08-24T11:45:51Z",
                 "owner": "multiversx",
                 "repo": "mx-exchange-sc",
                 "stars": 106
@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 432991695,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T14:01:35Z",
+                "last_commit": "2026-08-24T14:45:02Z",
                 "owner": "multiversx",
                 "repo": "mx-sdk-dapp",
                 "stars": 84
@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 371399014,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T11:35:19Z",
+                "last_commit": "2026-08-24T08:10:18Z",
                 "owner": "multiversx",
                 "repo": "mx-sdk-js-core",
                 "stars": 73
@@ -271,6 +271,28 @@
           "description": null,
           "node_type": "group",
           "title": "SDKs and dev tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Specifications for mx-sdk-* libraries",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 660105880,
+                "language": null,
+                "last_commit": "2025-07-15T07:40:56Z",
+                "owner": "multiversx",
+                "repo": "mx-sdk-specs",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Articles and tutorials"
         },
         {
           "children": [
@@ -1008,6 +1030,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "xSafe Multisig UI",
+              "description": "This is the source code of the xSafe Multisig UI for the Multisig SC developed by the MultiversX team.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 486911956,
+                "language": "TypeScript",
+                "last_commit": "2024-11-21T18:05:10Z",
+                "owner": "validblocks",
+                "repo": "xSafe",
+                "stars": 9
+              }
+            }
+          ],
+          "description": "Remember to always be careful when interacting with third-party dApps. Especially when it involves sending seeds, PEM, and keystore files. You should probably avoid that when interacting with the mainnet.",
+          "node_type": "group",
+          "title": "Dev dApps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Elven Tools Dapp",
               "description": "The dapp used by Elven Tools project",
               "children": [],
@@ -1106,7 +1150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:47:18.946Z",
+    "last_updated": "2026-08-24T14:45:45.640Z",
     "original_repository": "xdevguild/awesome-multiversx-dev-resources",
     "original_repository_id": 488164703,
     "original_repository_sha": "ae34ab07d659497b3dceb1ede2b91bd1e8894234",

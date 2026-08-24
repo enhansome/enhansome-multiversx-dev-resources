@@ -33,7 +33,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 ### Smart contracts
 
 * [Smart Contract examples](https://github.com/multiversx/mx-sdk-rs/tree/master/contracts/examples) ⭐ 195 | 🐛 44 | 🌐 Rust | 📅 2026-08-14 - A bunch of useful smart contract examples from the MultiversX team
-* [Exchange](https://github.com/multiversx/mx-exchange-sc) ⭐ 106 | 🐛 44 | 🌐 Rust | 📅 2026-08-20 - These are the core Smart Contracts and the foundation exchange.
+* [Exchange](https://github.com/multiversx/mx-exchange-sc) ⭐ 106 | 🐛 43 | 🌐 Rust | 📅 2026-08-24 - These are the core Smart Contracts and the foundation exchange.
 * [Ethereum bridge](https://github.com/multiversx/mx-bridge-eth-sc-rs) ⭐ 23 | 🐛 9 | 🌐 Rust | 📅 2025-10-09 - Smart Contracts on the MultiversX side for MultiversX-Ethereum bridge.
 * [NFT Marketplace](https://github.com/multiversx/mx-nft-marketplace-sc) ⭐ 21 | 🐛 1 | 🌐 Rust | 📅 2023-02-01
 * [NFT Collection Minter](https://github.com/multiversx/mx-nft-collection-minter-sc) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2025-04-11
@@ -45,8 +45,8 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 
 * [Wasm framework](https://github.com/multiversx/mx-sdk-rs) ⭐ 195 | 🐛 44 | 🌐 Rust | 📅 2026-08-14 - Rust smart contract library designed for MultiversX VM. Also provides a debugging mode with mocks
 * [Python SDK](https://github.com/multiversx/mx-sdk-py-cli) ⭐ 191 | 🐛 6 | 🌐 Python | 📅 2026-07-27 - Command line tools and Python SDK for interacting with the MultiversX Network and MultiversX Smart Contracts
-* [React Dapp SDK](https://github.com/multiversx/mx-sdk-dapp) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-22 - A library that holds the core functional logic of a dapp on the MultiversX
-* [Javascript SDK](https://github.com/multiversx/mx-sdk-js-core) ⭐ 73 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-21 - Official TS/JS SDK for interacting with the MultiversX Network and MultiversX Smart Contracts using Javascript (written in Typescript)
+* [React Dapp SDK](https://github.com/multiversx/mx-sdk-dapp) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-24 - A library that holds the core functional logic of a dapp on the MultiversX
+* [Javascript SDK](https://github.com/multiversx/mx-sdk-js-core) ⭐ 73 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24 - Official TS/JS SDK for interacting with the MultiversX Network and MultiversX Smart Contracts using Javascript (written in Typescript)
 * [Go SDK](https://github.com/multiversx/mx-sdk-go) ⭐ 17 | 🐛 14 | 🌐 Go | 📅 2026-08-21 - Go helpers and utilities for interacting with the MultiversX Blockchain
 * [NestJS SDK](https://github.com/multiversx/mx-sdk-nestjs) ⭐ 13 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-23 - This package contains a set of utilities commonly used in the MultiversX Microservice ecosystem
 * [JS SDK examples](https://github.com/multiversx/mx-sdk-js-examples) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2025-08-20
@@ -56,8 +56,8 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 
 ### Articles and tutorials
 
-* [Step-by-step video tutorials](https://multiversx.com/builders/tutorials)
 * [Specifications for mx-sdk-\* libraries](https://github.com/multiversx/mx-sdk-specs) ⭐ 5 | 🐛 7 | 📅 2025-07-15
+* [Step-by-step video tutorials](https://multiversx.com/builders/tutorials)
 * [Staking smart contract tutorial](https://docs.multiversx.com/developers/tutorials/staking-contract/)
 * [The Crowdfunding Smart Contract](https://docs.multiversx.com/developers/tutorials/crowdfunding-p1/)
 * [Rust Testing Framework](https://docs.multiversx.com/developers/developer-reference/rust-testing-framework/)
@@ -254,13 +254,13 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 
 Remember to always be careful when interacting with third-party dApps. Especially when it involves sending seeds, PEM, and keystore files. You should probably avoid that when interacting with the mainnet.
 
+* [xSafe Multisig UI](https://github.com/validblocks/xSafe) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2024-11-21 - This is the source code of the xSafe Multisig UI for the Multisig SC developed by the MultiversX team.
 * [Vanity Address Generator](https://wallet.artmakers.io/) - An open-source custom wallet generator for MultiversX
 * [R3D4](https://r3d4.fr) - Faucet, ESDT tools, Stats
 * [Converters for MultiversX Blockchain](http://207.244.241.38/elrond-converters) - This page offers an easy-to-use pack of data converters for interacting with MultiversX Blockchain.
 * [XConverters](https://xconverters.netlify.app/) - Another app that offers data converters but is more automated with better UI/UX
 * [MultiversX Transactioneer](https://elrond-transactioneer.vercel.app) - Create, Edit, Import, Export, Send & Batch Send transactions on any Elrond network.
 * [ESDT Faucet](https://devnet-multiversx-esdt-faucet.netlify.app/) - Deposit and Claim ESDT tokens
-* [xSafe Multisig UI](https://github.com/validblocks/xSafe) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2024-11-21 - This is the source code of the xSafe Multisig UI for the Multisig SC developed by the MultiversX team.
 * [xSmartDeploy](https://devnet.xsmartdeploy.com/) - Deploy smart contracts through the web app
 * [devnet.Buildo.dev](https://www.devnet.buildo.dev) - Buildo.dev is a MultiversX app that helps with blockchain interactions, like issuing, managing tokens, and querying smart contracts. (Mainnet also available).
 * [Spawnable.io](https://spawnable.io/) - Fully automated deployments for your smart contracts & MML objects.
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
