@@ -51,7 +51,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 * [NestJS SDK](https://github.com/multiversx/mx-sdk-nestjs) ⭐ 13 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-23 - This package contains a set of utilities commonly used in the MultiversX Microservice ecosystem
 * [JS SDK examples](https://github.com/multiversx/mx-sdk-js-examples) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2025-08-20
 * [PHP SDK](https://github.com/multiversx/mx-sdk-php) ⭐ 6 | 🐛 0 | 🌐 PHP | 📅 2025-10-22 - MultiversX PHP SDK for interacting with the MultiversX blockchain (in general) and Smart Contracts (in particular).
-* [Dapp SC Explorer SDK](https://github.com/multiversx/mx-sdk-dapp-sc-explorer) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-25 - A library to hold the main logic for Smart Contract Interactions on the MultiversX blockchain
+* [Dapp SC Explorer SDK](https://github.com/multiversx/mx-sdk-dapp-sc-explorer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-26 - A library to hold the main logic for Smart Contract Interactions on the MultiversX blockchain
 * [VSCode IDE](https://marketplace.visualstudio.com/items?itemName=Elrond.vscode-elrond-ide)
 
 ### Articles and tutorials
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
