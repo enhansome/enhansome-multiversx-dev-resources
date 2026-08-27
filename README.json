@@ -1150,9 +1150,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:08:35.630Z",
-    "original_repository": "xdevguild/awesome-multiversx-dev-resources",
-    "original_repository_id": 488164703,
+    "last_updated": "2026-08-27T11:53:20.138Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 488164703,
+      "language": null,
+      "last_commit": "2025-02-21T21:16:04Z",
+      "owner": "xdevguild",
+      "repo": "awesome-multiversx-dev-resources",
+      "stars": 65
+    },
     "original_repository_sha": "ae34ab07d659497b3dceb1ede2b91bd1e8894234",
     "enhanced_repository": "enhansome/enhansome-multiversx-dev-resources",
     "enhanced_repository_description": null,
