@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦀 MultiversX SpaceCraft framework for Rust. Contains: a smart contract framework; a complete smart contract build solution; a large collection of example smart contracts; a testing framework and debugger (including a VM model); real blockchain interaction; various other tools.",
+                "homepage": null,
                 "id": 231771029,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T22:32:47Z",
+                "open_issues": 45,
                 "owner": "multiversx",
                 "repo": "mx-sdk-rs",
-                "stars": 195
+                "stars": 195,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smart contracts for a decentralized exchange written in Rust",
+                "homepage": null,
                 "id": 342608525,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T11:45:51Z",
+                "open_issues": 43,
                 "owner": "multiversx",
                 "repo": "mx-exchange-sc",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smart contracts on the MultiversX side for cross-chain bridge",
+                "homepage": null,
                 "id": 341144508,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-09T08:06:59Z",
+                "open_issues": 9,
                 "owner": "multiversx",
                 "repo": "mx-bridge-eth-sc-rs",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smart contract for ESDT NFT Marketplace",
+                "homepage": null,
                 "id": 397853657,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2023-02-01T12:39:36Z",
+                "open_issues": 1,
                 "owner": "multiversx",
                 "repo": "mx-nft-marketplace-sc",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -76,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 477618466,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-11T12:44:18Z",
+                "open_issues": 0,
                 "owner": "multiversx",
                 "repo": "mx-nft-collection-minter-sc",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -92,12 +117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 521145136,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-10-21T17:53:08Z",
+                "open_issues": 1,
                 "owner": "multiversx",
                 "repo": "mx-liquid-staking-sc",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -108,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 580725079,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-24T08:57:23Z",
+                "open_issues": 8,
                 "owner": "multiversx",
                 "repo": "mx-exchange-tools-sc",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -124,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 462237202,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-28T08:02:32Z",
+                "open_issues": 4,
                 "owner": "multiversx",
                 "repo": "mx-metabonding-sc",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             }
@@ -147,12 +187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦀 MultiversX SpaceCraft framework for Rust. Contains: a smart contract framework; a complete smart contract build solution; a large collection of example smart contracts; a testing framework and debugger (including a VM model); real blockchain interaction; various other tools.",
+                "homepage": null,
                 "id": 231771029,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T22:32:47Z",
+                "open_issues": 45,
                 "owner": "multiversx",
                 "repo": "mx-sdk-rs",
-                "stars": 195
+                "stars": 195,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -163,12 +208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Command Line Tools and SDK for interacting with the MultiversX blockchain and dApps.",
+                "homepage": null,
                 "id": 371370749,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-27T08:48:58Z",
+                "open_issues": 6,
                 "owner": "multiversx",
                 "repo": "mx-sdk-py-cli",
-                "stars": 191
+                "stars": 191,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -179,12 +229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library that holds the core functional logic of a dapp on the MultiversX",
+                "homepage": null,
                 "id": 432991695,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T14:32:21Z",
+                "open_issues": 0,
                 "owner": "multiversx",
                 "repo": "mx-sdk-dapp",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -195,12 +250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " MultiversX SDK for interacting with the MultiversX blockchain (in general) and Smart Contracts (in particular). ",
+                "homepage": "https://multiversx.github.io/mx-sdk-js-core/",
                 "id": 371399014,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T08:10:18Z",
+                "open_issues": 10,
                 "owner": "multiversx",
                 "repo": "mx-sdk-js-core",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -211,12 +271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiversX GO SDK for interacting with the MultiversX blockchain (in general) and Smart Contracts (in particular).",
+                "homepage": null,
                 "id": 371374147,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-21T11:49:43Z",
+                "open_issues": 14,
                 "owner": "multiversx",
                 "repo": "mx-sdk-go",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -227,12 +292,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 507946518,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-23T09:58:18Z",
+                "open_issues": 11,
                 "owner": "multiversx",
                 "repo": "mx-sdk-nestjs",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -243,12 +313,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Examples of using the MultiversX JavaScript SDK",
+                "homepage": "https://docs.multiversx.com/sdk-and-tools/sdk-js/",
                 "id": 512524012,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-08-20T13:58:28Z",
+                "open_issues": 1,
                 "owner": "multiversx",
                 "repo": "mx-sdk-js-examples",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "erdjs",
+                  "examples",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -259,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiversX PHP SDK for interacting with the MultiversX blockchain (in general) and Smart Contracts (in particular). ",
+                "homepage": null,
                 "id": 724561118,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-10-22T08:33:50Z",
+                "open_issues": 0,
                 "owner": "multiversx",
                 "repo": "mx-sdk-php",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -275,12 +359,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library to hold the main logic for Smart Contract Interactions on the MultiversX blockchain",
+                "homepage": null,
                 "id": 696221762,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T12:27:53Z",
+                "open_issues": 0,
                 "owner": "multiversx",
                 "repo": "mx-sdk-dapp-sc-explorer",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "contract",
+                  "multiversx",
+                  "smart"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             }
@@ -298,12 +391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Specifications for mx-sdk-* (js, py, go etc.).",
+                "homepage": null,
                 "id": 660105880,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-07-15T07:40:56Z",
+                "open_issues": 7,
                 "owner": "multiversx",
                 "repo": "mx-sdk-specs",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             }
@@ -321,12 +419,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiversX React dApp Template: wallet auth, transaction signing and native auth using sdk-dapp v5. Built with React 18, TypeScript and Vite.",
+                "homepage": "https://template-dapp.multiversx.com",
                 "id": 366736596,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-28T14:07:49Z",
+                "open_issues": 7,
                 "owner": "multiversx",
                 "repo": "mx-template-dapp",
-                "stars": 221
+                "stars": 221,
+                "topics": [
+                  "blockchain",
+                  "dapp",
+                  "multiversx",
+                  "react",
+                  "sdk-dapp",
+                  "template",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -337,12 +448,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unified GraphQL for providing information regarding nfts in MultiversX Blockchain and indexing auctions on different marketplaces",
+                "homepage": null,
                 "id": 352973686,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-09-08T16:13:55Z",
+                "open_issues": 0,
                 "owner": "multiversx",
                 "repo": "mx-nft-service",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "blockchain",
+                  "graphql",
+                  "nft"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -353,12 +473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decentralized Exchange Service based on GraphQL",
+                "homepage": null,
                 "id": 354647611,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-21T07:21:56Z",
+                "open_issues": 13,
                 "owner": "multiversx",
                 "repo": "mx-exchange-service",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -369,12 +494,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 526187995,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-25T14:06:28Z",
+                "open_issues": 2,
                 "owner": "multiversx",
                 "repo": "mx-multi-factor-auth-go-service",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             }
@@ -398,12 +528,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elven Tools NFT Minter Smart Contract - launching NFTs collections on the MultiversX blockchain",
+                "homepage": "https://www.elven.tools",
                 "id": 437050174,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-04-18T16:51:26Z",
+                "open_issues": 0,
                 "owner": "ElvenTools",
                 "repo": "elven-nft-minter-sc",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "blockchain",
+                  "elrond",
+                  "multiversx",
+                  "nft",
+                  "rust",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -414,12 +556,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PiggyBank MultiversX blockchain Smart Contract for learning purposes",
+                "homepage": "https://piggy-bank-dapp.netlify.app/",
                 "id": 388588477,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-02-22T12:14:52Z",
+                "open_issues": 1,
                 "owner": "xdevguild",
                 "repo": "piggy-bank-sc",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "blockchain",
+                  "elrond",
+                  "multiversx",
+                  "rust",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -430,12 +583,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lending & Borrowing protocol for @MultiversX",
+                "homepage": "https://xoxno.com/defi/",
                 "id": 890724870,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-16T20:29:45Z",
+                "open_issues": 0,
                 "owner": "XOXNO",
                 "repo": "rs-lending",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "blockchain",
+                  "borrowing",
+                  "defi",
+                  "lending",
+                  "nft"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -446,12 +610,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://xbulk.app",
                 "id": 494451520,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-02-17T08:34:28Z",
+                "open_issues": 1,
                 "owner": "DBCodingSRL",
                 "repo": "xBulk",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -462,12 +631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 645175391,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2025-01-21T13:48:08Z",
+                "open_issues": 0,
                 "owner": "ashswap",
                 "repo": "ash-aggregator-sc",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -478,12 +652,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 494637930,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2022-05-22T00:53:55Z",
+                "open_issues": 1,
                 "owner": "xdevguild",
                 "repo": "elrond-pack-presale-sc",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -494,12 +673,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-sender smart contract that allows you to send EGLD, ESDTs and NFTs to multiple addresses in one transaction",
+                "homepage": null,
                 "id": 526562937,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-08-19T15:14:30Z",
+                "open_issues": 0,
                 "owner": "xdevguild",
                 "repo": "sc-multi-sender-rs",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "elrond",
+                  "rust",
+                  "smart-contract"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -510,12 +698,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elven Tools SFT Minter Smart Contract - launching SFTs collections on the MultiversX blockchain",
+                "homepage": "https://www.elven.tools",
                 "id": 615684225,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-04-18T16:41:31Z",
+                "open_issues": 0,
                 "owner": "ElvenTools",
                 "repo": "elven-tools-sft-minter-sc",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "blockchain",
+                  "multiversx",
+                  "rust",
+                  "sft",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -526,12 +725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inscriptions",
+                "homepage": null,
                 "id": 734804312,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-01-14T09:46:55Z",
+                "open_issues": 1,
                 "owner": "XOXNO",
                 "repo": "rs-inscriptions",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -542,12 +746,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiversX ESDT Faucet Smart Contract",
+                "homepage": "https://devnet-multiversx-esdt-faucet.netlify.app/",
                 "id": 532409915,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-03-10T11:53:06Z",
+                "open_issues": 0,
                 "owner": "xdevguild",
                 "repo": "esdt-faucet-sc",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "dapp",
+                  "elrond",
+                  "faucet",
+                  "multiversx",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -558,12 +773,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiversX Fundraising Smart Contract allowing the creation of pots with or without objectives, with or without deadlines.",
+                "homepage": null,
                 "id": 637699976,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-05-08T08:43:03Z",
+                "open_issues": 0,
                 "owner": "Gwordo87",
                 "repo": "Fundraising-SC",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -574,12 +794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 605987184,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-01T13:14:49Z",
+                "open_issues": 0,
                 "owner": "Moonlorian",
                 "repo": "vesting-dapp",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -590,12 +815,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nifty Maze & Proxy Ping Smart Contracts",
+                "homepage": null,
                 "id": 672286361,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-17T23:05:41Z",
+                "open_issues": 0,
                 "owner": "NiftyWell",
                 "repo": "nifty-maze",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -606,12 +836,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 719215702,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-15T17:59:58Z",
+                "open_issues": 0,
                 "owner": "PierreBlg",
                 "repo": "PublicFlashLoansSC",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             }
@@ -629,12 +864,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source Next.js app template for the MultiversX blockchain. Including Shadcn UI and Tailwind.",
+                "homepage": "https://multiversx-nextjs-dapp.netlify.app",
                 "id": 492348021,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-30T06:25:40Z",
+                "open_issues": 1,
                 "owner": "xdevguild",
                 "repo": "nextjs-dapp-template",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "blockchain",
+                  "elrond",
+                  "elrond-dapp",
+                  "javascript",
+                  "multiversx",
+                  "multiversx-dapp",
+                  "nextjs",
+                  "react",
+                  "reactjs",
+                  "shadcn-ui",
+                  "tailwind"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -645,12 +897,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AssemblyScript smart contract library designed for MultiversX's VM.",
+                "homepage": null,
                 "id": 567214812,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-12T15:21:20Z",
+                "open_issues": 4,
                 "owner": "gfusee",
                 "repo": "mx-sdk-as",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -661,12 +918,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiversX blockchain CLI helper tools - interaction with APIs, smart contracts and protocol",
+                "homepage": "https://www.npmjs.com/package/buildo-begins",
                 "id": 499661283,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-12-29T23:09:18Z",
+                "open_issues": 1,
                 "owner": "xdevguild",
                 "repo": "buildo-begins",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "blockchain",
+                  "cli",
+                  "elrond",
+                  "javascript",
+                  "multiversx",
+                  "sdk",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -677,12 +947,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elven Tools CLI - command line tool for launching NFTs collections on the MultiversX blockchain (Plus other tools). ",
+                "homepage": "https://www.elven.tools",
                 "id": 439734739,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-14T17:06:19Z",
+                "open_issues": 0,
                 "owner": "ElvenTools",
                 "repo": "elven-tools-cli",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "blockchain",
+                  "cli",
+                  "elrond",
+                  "javascript",
+                  "multiversx",
+                  "nft",
+                  "nodejs",
+                  "sft"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -693,12 +977,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast and user-friendly Rust framework for MultiversX",
+                "homepage": null,
                 "id": 699357459,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-18T16:46:36Z",
+                "open_issues": 24,
                 "owner": "gfusee",
                 "repo": "novax",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -709,12 +998,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 463569534,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-27T11:14:53Z",
+                "open_issues": 1,
                 "owner": "elrond-giants",
                 "repo": "erd-next-starter",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -725,12 +1019,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛠️ Init, Build, Test, Deploy MultiversX smart contracts in seconds. The full suite for efficiently developing high-quality contracts.",
+                "homepage": "https://xsuite.dev",
                 "id": 618042832,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-21T15:42:24Z",
+                "open_issues": 4,
                 "owner": "arda-org",
                 "repo": "xSuite",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -741,12 +1040,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI to run local blockchains effortlessly.",
+                "homepage": null,
                 "id": 600047934,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-03-15T15:27:07Z",
+                "open_issues": 2,
                 "owner": "gfusee",
                 "repo": "xnetwork",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -757,12 +1061,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free to use Unity Tools for app development on MultiversX Blockchain.",
+                "homepage": null,
                 "id": 503673951,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-09-21T13:13:58Z",
+                "open_issues": 3,
                 "owner": "chainofindustry",
                 "repo": "MultiversXUnityTools",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "blockchain",
+                  "crypto",
+                  "cryptocurrency",
+                  "multiversx",
+                  "unity",
+                  "unity3d"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -773,12 +1089,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiversX SDK for Laravel (written in PHP).",
+                "homepage": "https://peerme.io",
                 "id": 414772131,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-05-05T08:34:00Z",
+                "open_issues": 0,
                 "owner": "PeerMeHQ",
                 "repo": "mx-sdk-laravel",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "laravel",
+                  "multiversx",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -789,12 +1114,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ABI2API serves SC ABIs on the MultiversX blockchain as APIs with interactive Swagger UI",
+                "homepage": "https://twitter.com/BobbetBot",
                 "id": 665655827,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-07T09:51:28Z",
+                "open_issues": 1,
                 "owner": "SkullElf",
                 "repo": "ABI2API",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "twitter"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -805,12 +1137,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spring Boot Starter Reactive for MultiversX Network integration ",
+                "homepage": null,
                 "id": 410107912,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2023-10-05T11:17:15Z",
+                "open_issues": 0,
                 "owner": "ezalabs",
                 "repo": "multiversx-spring-boot-starter-reactive",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "blockchain",
+                  "multiversx",
+                  "spring-boot-starter"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -821,12 +1162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 899175700,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-03-24T23:11:00Z",
+                "open_issues": 12,
                 "owner": "PhyByte",
                 "repo": "mvx-api-deployer",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -837,12 +1183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LKMEX (or other ESDT token) distribution to the NFTs collection owners in the Elrond blockchain",
+                "homepage": null,
                 "id": 455987078,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-08-21T09:02:34Z",
+                "open_issues": 0,
                 "owner": "Combased",
                 "repo": "elrond-lkmex-distribution",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -853,12 +1204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 504119159,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-10-31T13:49:43Z",
+                "open_issues": 1,
                 "owner": "elrond-giants",
                 "repo": "erd-react-hooks",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -869,12 +1225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elrondex is an elixir library that interacts with Elrond Blockchain",
+                "homepage": null,
                 "id": 407445749,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2023-03-10T21:32:15Z",
+                "open_issues": 0,
                 "owner": "elrondex",
                 "repo": "elrondex",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -885,12 +1246,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package to automate MultiversX transactions: be it smart contracts deployments, calls, queries or just simple transfers",
+                "homepage": null,
                 "id": 569113497,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-09T11:41:43Z",
+                "open_issues": 0,
                 "owner": "Catenscia",
                 "repo": "MxOps",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "cicd",
+                  "devops",
+                  "elrond",
+                  "multiversx",
+                  "mxpy",
+                  "python",
+                  "smart-contract"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -901,12 +1275,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dApp template for MultiversX",
+                "homepage": "https://template-dapp.esdt.space",
                 "id": 611430866,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-16T21:00:15Z",
+                "open_issues": 0,
                 "owner": "devaccent",
                 "repo": "mvx-dapp-template",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "blockchain",
+                  "dapp",
+                  "multiversx",
+                  "react",
+                  "template",
+                  "vite"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -917,12 +1303,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elrond Rust SDK for interacting with the Elrond Network and Smart Contracts.",
+                "homepage": null,
                 "id": 416855507,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-12-29T03:26:54Z",
+                "open_issues": 0,
                 "owner": "bicarus-labs",
                 "repo": "elrond-sdk-erdrs",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -933,12 +1324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500806081,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-08-20T07:18:42Z",
+                "open_issues": 0,
                 "owner": "elrond-giants",
                 "repo": "erdjs-auth",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -949,12 +1345,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ MultiversX .NET SDK: Complex library for interacting with MultiversX blockchain",
+                "homepage": null,
                 "id": 589720876,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-12-16T16:29:41Z",
+                "open_issues": 0,
                 "owner": "RemarkableTools",
                 "repo": "Mx.NET.SDK",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "dotnet",
+                  "multiversx",
+                  "mxdotnet",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -965,12 +1371,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Blazor DApp is a template application built using Blazor UI framework and ASP.NET Core server application",
+                "homepage": "https://template-dapp.remarkable.tools",
                 "id": 599703287,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-03-29T19:55:48Z",
+                "open_issues": 0,
                 "owner": "RemarkableTools",
                 "repo": "Mx.Blazor.DApp",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "blazor",
+                  "dotnet",
+                  "multiversx",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -981,12 +1397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ABI Extractor is a Python tool on the MultiversX blockchain, designed to extract ABI JSONs and smart contract (SC) addresses from dApp JavaScript files.",
+                "homepage": "https://twitter.com/BobbetBot",
                 "id": 679341780,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-16T16:46:58Z",
+                "open_issues": 0,
                 "owner": "SkullElf",
                 "repo": "ABIExtractor",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -997,12 +1418,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distribute EGLD and ESDT to list of wallets",
+                "homepage": null,
                 "id": 494887294,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-21T10:07:27Z",
+                "open_issues": 0,
                 "owner": "xdevguild",
                 "repo": "esdt-and-egld-airdrop-scripts",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "egld",
+                  "esdt",
+                  "multiversx",
+                  "multiversx-sdk-core",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -1013,12 +1445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utilities to manipulate ManagedBuffer, ManagedVec and array",
+                "homepage": null,
                 "id": 540028112,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2023-01-31T12:29:05Z",
+                "open_issues": 1,
                 "owner": "Angry-Penguins-Colony",
                 "repo": "mx-rust-utilities",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -1029,12 +1466,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ MultiversX .NET SDK: Unique library for interacting with Wallet Providers. Create connection and sign transactions.",
+                "homepage": null,
                 "id": 589735888,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-06-30T14:48:09Z",
+                "open_issues": 0,
                 "owner": "RemarkableTools",
                 "repo": "Mx.NET.SDK.WalletProviders",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "dotnet",
+                  "multiversx",
+                  "mxdotnet",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -1045,12 +1492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 639372399,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-08-16T04:00:28Z",
+                "open_issues": 1,
                 "owner": "VortX-DAO",
                 "repo": "mxbi",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -1061,12 +1513,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiversX Golang SDK by Staking Agency",
+                "homepage": null,
                 "id": 631631452,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2024-09-18T07:38:57Z",
+                "open_issues": 0,
                 "owner": "stakingagency",
                 "repo": "sa-mx-sdk-go",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -1077,12 +1534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 772698030,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-04-04T14:08:05Z",
+                "open_issues": 0,
                 "owner": "gfusee",
                 "repo": "mx-chain-simulator-interface-rs",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             }
@@ -1100,12 +1562,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 486911956,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-11-21T18:05:10Z",
+                "open_issues": 1,
                 "owner": "validblocks",
                 "repo": "xSafe",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             }
@@ -1123,12 +1590,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elven Tools Dapp - MultiversX blockckchain frontend dapp demo. Primarily for NFT minting, but it can be used for other purposes.",
+                "homepage": "https://dapp-demo.elven.tools",
                 "id": 480505022,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-14T16:23:51Z",
+                "open_issues": 0,
                 "owner": "ElvenTools",
                 "repo": "elven-tools-dapp",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "blockchain",
+                  "dapp",
+                  "elrond",
+                  "elrond-dapp",
+                  "elrond-javascript",
+                  "elrond-typescript",
+                  "javascript",
+                  "multiversx",
+                  "nextjs",
+                  "nft",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -1139,12 +1623,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Buildo.dev is a MultiversX app that helps with blockchain interactions, like issuing, managing tokens and querying smart contracts.",
+                "homepage": "https://www.buildo.dev",
                 "id": 704816797,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-08T15:12:57Z",
+                "open_issues": 0,
                 "owner": "xdevguild",
                 "repo": "buildo.dev",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "blockchain",
+                  "egld",
+                  "esdt",
+                  "multiversx",
+                  "multiversx-dapp",
+                  "nextjs",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -1155,12 +1652,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source custom wallet generator for MultiversX",
+                "homepage": "https://wallet.artmakers.io",
                 "id": 821139407,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-02-03T15:45:13Z",
+                "open_issues": 0,
                 "owner": "BubuMVX",
                 "repo": "mvx-vanity-address",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "multiversx",
+                  "wallet-generator"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -1171,12 +1676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 461623646,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-06-22T09:03:28Z",
+                "open_issues": 1,
                 "owner": "yum0e",
                 "repo": "front-nft-middleman",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -1187,12 +1697,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 605987184,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-01T13:14:49Z",
+                "open_issues": 0,
                 "owner": "Moonlorian",
                 "repo": "vesting-dapp",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             },
@@ -1203,12 +1718,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiversX ESDT Faucet Dapp",
+                "homepage": "https://devnet-multiversx-esdt-faucet.netlify.app/",
                 "id": 532409135,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-03-10T12:07:59Z",
+                "open_issues": 0,
                 "owner": "xdevguild",
                 "repo": "esdt-faucet-dapp",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "dapp",
+                  "elrond",
+                  "faucet",
+                  "multiversx",
+                  "nextjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
             }
@@ -1222,15 +1749,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:35:43.337Z",
+    "last_updated": "2026-08-29T05:04:10.482Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
+      "homepage": null,
       "id": 488164703,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-02-21T21:16:04Z",
+      "open_issues": 0,
       "owner": "xdevguild",
       "repo": "awesome-multiversx-dev-resources",
-      "stars": 66
+      "stars": 66,
+      "topics": [
+        "awesome-list",
+        "blockchain",
+        "developer-tools",
+        "elrond",
+        "javascript",
+        "multiversx",
+        "rust",
+        "typescript"
+      ]
     },
     "original_repository_sha": "ae34ab07d659497b3dceb1ede2b91bd1e8894234",
     "enhanced_repository": "enhansome/enhansome-multiversx-dev-resources",
