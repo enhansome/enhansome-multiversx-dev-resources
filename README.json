@@ -18,7 +18,8 @@
                 "owner": "multiversx",
                 "repo": "mx-sdk-rs",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-24T11:45:51Z",
                 "owner": "multiversx",
                 "repo": "mx-exchange-sc",
-                "stars": 106
-              }
+                "stars": 107
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "multiversx",
                 "repo": "mx-bridge-eth-sc-rs",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "multiversx",
                 "repo": "mx-nft-marketplace-sc",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "multiversx",
                 "repo": "mx-nft-collection-minter-sc",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "multiversx",
                 "repo": "mx-liquid-staking-sc",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "multiversx",
                 "repo": "mx-exchange-tools-sc",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "multiversx",
                 "repo": "mx-metabonding-sc",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             }
           ],
           "description": null,
@@ -145,7 +153,8 @@
                 "owner": "multiversx",
                 "repo": "mx-sdk-rs",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "multiversx",
                 "repo": "mx-sdk-py-cli",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "multiversx",
                 "repo": "mx-sdk-dapp",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "multiversx",
                 "repo": "mx-sdk-js-core",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "multiversx",
                 "repo": "mx-sdk-go",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "multiversx",
                 "repo": "mx-sdk-nestjs",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "multiversx",
                 "repo": "mx-sdk-js-examples",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "multiversx",
                 "repo": "mx-sdk-php",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "multiversx",
                 "repo": "mx-sdk-dapp-sc-explorer",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             }
           ],
           "description": null,
@@ -287,7 +304,8 @@
                 "owner": "multiversx",
                 "repo": "mx-sdk-specs",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             }
           ],
           "description": null,
@@ -305,11 +323,12 @@
                 "archived": false,
                 "id": 366736596,
                 "language": "TypeScript",
-                "last_commit": "2026-07-16T09:44:52Z",
+                "last_commit": "2026-08-28T14:07:49Z",
                 "owner": "multiversx",
                 "repo": "mx-template-dapp",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -324,7 +343,8 @@
                 "owner": "multiversx",
                 "repo": "mx-nft-service",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -339,7 +359,8 @@
                 "owner": "multiversx",
                 "repo": "mx-exchange-service",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -354,7 +375,8 @@
                 "owner": "multiversx",
                 "repo": "mx-multi-factor-auth-go-service",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             }
           ],
           "description": null,
@@ -382,7 +404,8 @@
                 "owner": "ElvenTools",
                 "repo": "elven-nft-minter-sc",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -397,7 +420,8 @@
                 "owner": "xdevguild",
                 "repo": "piggy-bank-sc",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -412,7 +436,8 @@
                 "owner": "XOXNO",
                 "repo": "rs-lending",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -427,7 +452,8 @@
                 "owner": "DBCodingSRL",
                 "repo": "xBulk",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -442,7 +468,8 @@
                 "owner": "ashswap",
                 "repo": "ash-aggregator-sc",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -457,7 +484,8 @@
                 "owner": "xdevguild",
                 "repo": "elrond-pack-presale-sc",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -472,7 +500,8 @@
                 "owner": "xdevguild",
                 "repo": "sc-multi-sender-rs",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -487,7 +516,8 @@
                 "owner": "ElvenTools",
                 "repo": "elven-tools-sft-minter-sc",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -502,7 +532,8 @@
                 "owner": "XOXNO",
                 "repo": "rs-inscriptions",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -517,7 +548,8 @@
                 "owner": "xdevguild",
                 "repo": "esdt-faucet-sc",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -532,7 +564,8 @@
                 "owner": "Gwordo87",
                 "repo": "Fundraising-SC",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -547,7 +580,8 @@
                 "owner": "Moonlorian",
                 "repo": "vesting-dapp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -562,7 +596,8 @@
                 "owner": "NiftyWell",
                 "repo": "nifty-maze",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -577,7 +612,8 @@
                 "owner": "PierreBlg",
                 "repo": "PublicFlashLoansSC",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             }
           ],
           "description": null,
@@ -599,7 +635,8 @@
                 "owner": "xdevguild",
                 "repo": "nextjs-dapp-template",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -614,7 +651,8 @@
                 "owner": "gfusee",
                 "repo": "mx-sdk-as",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -629,7 +667,8 @@
                 "owner": "xdevguild",
                 "repo": "buildo-begins",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -644,7 +683,8 @@
                 "owner": "ElvenTools",
                 "repo": "elven-tools-cli",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -659,7 +699,8 @@
                 "owner": "gfusee",
                 "repo": "novax",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -674,7 +715,8 @@
                 "owner": "elrond-giants",
                 "repo": "erd-next-starter",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -688,8 +730,25 @@
                 "last_commit": "2025-07-21T15:42:24Z",
                 "owner": "arda-org",
                 "repo": "xSuite",
+                "stars": 16
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
+            },
+            {
+              "node_type": "item",
+              "title": "xNetwork",
+              "description": "This project provides an easy way to run a local testnet of MultiversX and its associated API, with no configuration required",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600047934,
+                "language": "TypeScript",
+                "last_commit": "2024-03-15T15:27:07Z",
+                "owner": "gfusee",
+                "repo": "xnetwork",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -704,7 +763,8 @@
                 "owner": "chainofindustry",
                 "repo": "MultiversXUnityTools",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -719,22 +779,8 @@
                 "owner": "PeerMeHQ",
                 "repo": "mx-sdk-laravel",
                 "stars": 14
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "xNetwork",
-              "description": "This project provides an easy way to run a local testnet of MultiversX and its associated API, with no configuration required",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 600047934,
-                "language": "TypeScript",
-                "last_commit": "2024-03-15T15:27:07Z",
-                "owner": "gfusee",
-                "repo": "xnetwork",
-                "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -749,7 +795,8 @@
                 "owner": "SkullElf",
                 "repo": "ABI2API",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -764,7 +811,8 @@
                 "owner": "ezalabs",
                 "repo": "multiversx-spring-boot-starter-reactive",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -779,7 +827,8 @@
                 "owner": "PhyByte",
                 "repo": "mvx-api-deployer",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -793,8 +842,9 @@
                 "last_commit": "2022-08-21T09:02:34Z",
                 "owner": "Combased",
                 "repo": "elrond-lkmex-distribution",
-                "stars": 12
-              }
+                "stars": 13
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -809,7 +859,8 @@
                 "owner": "elrond-giants",
                 "repo": "erd-react-hooks",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -824,7 +875,8 @@
                 "owner": "elrondex",
                 "repo": "elrondex",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -839,7 +891,8 @@
                 "owner": "Catenscia",
                 "repo": "MxOps",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -854,7 +907,8 @@
                 "owner": "devaccent",
                 "repo": "mvx-dapp-template",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -869,7 +923,8 @@
                 "owner": "bicarus-labs",
                 "repo": "elrond-sdk-erdrs",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -884,7 +939,8 @@
                 "owner": "elrond-giants",
                 "repo": "erdjs-auth",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -899,7 +955,8 @@
                 "owner": "RemarkableTools",
                 "repo": "Mx.NET.SDK",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -914,7 +971,8 @@
                 "owner": "RemarkableTools",
                 "repo": "Mx.Blazor.DApp",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -929,7 +987,8 @@
                 "owner": "SkullElf",
                 "repo": "ABIExtractor",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -944,7 +1003,8 @@
                 "owner": "xdevguild",
                 "repo": "esdt-and-egld-airdrop-scripts",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -959,7 +1019,8 @@
                 "owner": "Angry-Penguins-Colony",
                 "repo": "mx-rust-utilities",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -974,7 +1035,8 @@
                 "owner": "RemarkableTools",
                 "repo": "Mx.NET.SDK.WalletProviders",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -989,7 +1051,8 @@
                 "owner": "VortX-DAO",
                 "repo": "mxbi",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -1004,7 +1067,8 @@
                 "owner": "stakingagency",
                 "repo": "sa-mx-sdk-go",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -1019,7 +1083,8 @@
                 "owner": "gfusee",
                 "repo": "mx-chain-simulator-interface-rs",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             }
           ],
           "description": null,
@@ -1041,7 +1106,8 @@
                 "owner": "validblocks",
                 "repo": "xSafe",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             }
           ],
           "description": "Remember to always be careful when interacting with third-party dApps. Especially when it involves sending seeds, PEM, and keystore files. You should probably avoid that when interacting with the mainnet.",
@@ -1063,7 +1129,8 @@
                 "owner": "ElvenTools",
                 "repo": "elven-tools-dapp",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -1078,7 +1145,8 @@
                 "owner": "xdevguild",
                 "repo": "buildo.dev",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -1093,7 +1161,8 @@
                 "owner": "BubuMVX",
                 "repo": "mvx-vanity-address",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -1108,7 +1177,8 @@
                 "owner": "yum0e",
                 "repo": "front-nft-middleman",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -1123,7 +1193,8 @@
                 "owner": "Moonlorian",
                 "repo": "vesting-dapp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             },
             {
               "node_type": "item",
@@ -1138,7 +1209,8 @@
                 "owner": "xdevguild",
                 "repo": "esdt-faucet-dapp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
             }
           ],
           "description": null,
@@ -1150,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:00:06.633Z",
+    "last_updated": "2026-08-29T00:35:43.337Z",
     "original_repository_info": {
       "archived": false,
       "id": 488164703,
@@ -1158,7 +1230,7 @@
       "last_commit": "2025-02-21T21:16:04Z",
       "owner": "xdevguild",
       "repo": "awesome-multiversx-dev-resources",
-      "stars": 65
+      "stars": 66
     },
     "original_repository_sha": "ae34ab07d659497b3dceb1ede2b91bd1e8894234",
     "enhanced_repository": "enhansome/enhansome-multiversx-dev-resources",
