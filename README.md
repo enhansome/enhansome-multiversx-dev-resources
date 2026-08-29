@@ -267,7 +267,7 @@ Remember to always be careful when interacting with third-party dApps. Especiall
 
 ### Dapps Source Code
 
-* [Elven Tools Dapp](https://github.com/ElvenTools/elven-tools-dapp) ⭐ 25 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-14 - The dapp used by Elven Tools project
+* [Elven Tools Dapp](https://github.com/ElvenTools/elven-tools-dapp) ⭐ 24 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-14 - The dapp used by Elven Tools project
 * [Buildo.dev](https://github.com/xdevguild/buildo.dev) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-08 - Buildo.dev is a MultiversX app that helps with blockchain interactions, like issuing, managing tokens and querying smart contracts.
 * [Vanity Address Generator](https://github.com/grobux/mvx-vanity-address) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-03 - An open-source custom wallet generator for MultiversX
 * [Middleman.nft](https://www.middleman-nft.com/) - A secure way to exchange NFTs with a smart contract that acts as a trusted third party. Open source code of the frontend [here](https://github.com/yum0e/front-nft-middleman) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2022-06-22.

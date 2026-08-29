@@ -1599,7 +1599,7 @@
                 "open_issues": 0,
                 "owner": "ElvenTools",
                 "repo": "elven-tools-dapp",
-                "stars": 25,
+                "stars": 24,
                 "topics": [
                   "blockchain",
                   "dapp",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:04:10.482Z",
+    "last_updated": "2026-08-29T19:26:23.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
