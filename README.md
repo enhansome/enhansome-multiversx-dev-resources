@@ -32,7 +32,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 
 ### Smart contracts
 
-* [Smart Contract examples](https://github.com/multiversx/mx-sdk-rs/tree/master/contracts/examples) ⭐ 195 | 🐛 45 | 🌐 Rust | 📅 2026-09-01 - A bunch of useful smart contract examples from the MultiversX team
+* [Smart Contract examples](https://github.com/multiversx/mx-sdk-rs/tree/master/contracts/examples) ⭐ 195 | 🐛 44 | 🌐 Rust | 📅 2026-09-02 - A bunch of useful smart contract examples from the MultiversX team
 * [Exchange](https://github.com/multiversx/mx-exchange-sc) ⭐ 107 | 🐛 43 | 🌐 Rust | 📅 2026-09-01 - These are the core Smart Contracts and the foundation exchange.
 * [Ethereum bridge](https://github.com/multiversx/mx-bridge-eth-sc-rs) ⭐ 23 | 🐛 9 | 🌐 Rust | 📅 2025-10-09 - Smart Contracts on the MultiversX side for MultiversX-Ethereum bridge.
 * [NFT Marketplace](https://github.com/multiversx/mx-nft-marketplace-sc) ⭐ 21 | 🐛 1 | 🌐 Rust | 📅 2023-02-01
@@ -43,7 +43,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 
 ### SDKs and dev tools
 
-* [Wasm framework](https://github.com/multiversx/mx-sdk-rs) ⭐ 195 | 🐛 45 | 🌐 Rust | 📅 2026-09-01 - Rust smart contract library designed for MultiversX VM. Also provides a debugging mode with mocks
+* [Wasm framework](https://github.com/multiversx/mx-sdk-rs) ⭐ 195 | 🐛 44 | 🌐 Rust | 📅 2026-09-02 - Rust smart contract library designed for MultiversX VM. Also provides a debugging mode with mocks
 * [Python SDK](https://github.com/multiversx/mx-sdk-py-cli) ⭐ 191 | 🐛 6 | 🌐 Python | 📅 2026-07-27 - Command line tools and Python SDK for interacting with the MultiversX Network and MultiversX Smart Contracts
 * [React Dapp SDK](https://github.com/multiversx/mx-sdk-dapp) ⭐ 84 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-25 - A library that holds the core functional logic of a dapp on the MultiversX
 * [Javascript SDK](https://github.com/multiversx/mx-sdk-js-core) ⭐ 73 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24 - Official TS/JS SDK for interacting with the MultiversX Network and MultiversX Smart Contracts using Javascript (written in Typescript)
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
