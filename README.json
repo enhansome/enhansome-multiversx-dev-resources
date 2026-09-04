@@ -17,11 +17,11 @@
                 "id": 231771029,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T14:15:18Z",
+                "last_commit": "2026-09-04T16:56:57Z",
                 "open_issues": 44,
                 "owner": "multiversx",
                 "repo": "mx-sdk-rs",
-                "stars": 195,
+                "stars": 194,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
@@ -192,11 +192,11 @@
                 "id": 231771029,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T14:15:18Z",
+                "last_commit": "2026-09-04T16:56:57Z",
                 "open_issues": 44,
                 "owner": "multiversx",
                 "repo": "mx-sdk-rs",
-                "stars": 195,
+                "stars": 194,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
@@ -217,7 +217,7 @@
                 "open_issues": 6,
                 "owner": "multiversx",
                 "repo": "mx-sdk-py-cli",
-                "stars": 191,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:20:12.941Z",
+    "last_updated": "2026-09-04T19:01:18.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
