@@ -111,7 +111,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 
 * [MultiversX dApp template](https://github.com/multiversx/mx-template-dapp) ⭐ 221 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-31 - The official dApp template provided by the MultiversX team using React.js & Typescript. It's a basic implementation of [@multiversx/sdk-dapp](https://www.npmjs.com/package/@multiversx/sdk-dapp), providing the basics for MultiversX authentication and TX signing.
 * [NFT service](https://github.com/multiversx/mx-nft-service) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-08 - GraphQl service to provide information regarding NFTs and auctions on MultiversX Blockchain
-* [xExchange service](https://github.com/multiversx/mx-exchange-service) ⭐ 14 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-15 - Decentralized Exchange Service based on GraphQL
+* [xExchange service](https://github.com/multiversx/mx-exchange-service) ⭐ 14 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-21 - Decentralized Exchange Service based on GraphQL
 * [Trusted Co-Signer Service](https://github.com/multiversx/mx-multi-factor-auth-go-service) ⭐ 3 | 🐛 2 | 🌐 Go | 📅 2026-08-25 - It is the component that automates most of the Guardian processes and makes it easy for users to turn wallets into unbreakable vaults
 * [Latest MultiversX Releases](https://multiversx.com/releases) - The feed to help you catch up with the latest releases
 * [MultiversX Utils](https://utils.multiversx.com/) - This page offers an easy-to-use pack of utilities necessary for interacting with the MultiversX Blockchain
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
