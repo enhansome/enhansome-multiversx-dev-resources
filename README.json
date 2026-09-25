@@ -256,7 +256,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T08:10:18Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "multiversx",
                 "repo": "mx-sdk-js-core",
                 "stars": 73,
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:02:14.264Z",
+    "last_updated": "2026-09-25T20:03:46.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
