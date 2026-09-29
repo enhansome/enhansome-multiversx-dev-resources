@@ -149,7 +149,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 
 ### Smart contracts
 
-* [Elven Tools NFT Minter Smart Contract](https://github.com/ElvenTools/elven-nft-minter-sc) ⭐ 48 | 🐛 0 | 🌐 Rust | 📅 2024-04-18 - Mint and sell NFT collections. It has features like issue collection, setting creation role, pause/unpause, random minting, giveaway, split minting into batches, and more.
+* [Elven Tools NFT Minter Smart Contract](https://github.com/ElvenTools/elven-nft-minter-sc) ⭐ 47 | 🐛 0 | 🌐 Rust | 📅 2024-04-18 - Mint and sell NFT collections. It has features like issue collection, setting creation role, pause/unpause, random minting, giveaway, split minting into batches, and more.
 * [Simple Piggybank Smart Contract](https://github.com/xdevguild/multiversx-simple-sc) ⭐ 17 | 🐛 1 | 🌐 Rust | 📅 2025-02-22 - smart contract for learning purposes
 * [MultiversX Lending & Borrowing Protocol](https://github.com/XOXNO/rs-lending) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2026-07-16 - where lending, borrowing, and managing your digital assets is not only secure and efficient, but also a fun and flexible experience!
 * [xBulk](https://github.com/defralcoding/xBulk) ⭐ 7 | 🐛 1 | 🌐 Rust | 📅 2025-02-17 - smart contract for handling bulk transactions
@@ -173,7 +173,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 * [JS SDK with NextJS dapp template](https://github.com/xdevguild/nextjs-dapp-template) ⭐ 50 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-30
 * [AssemblyScript framework for MultiversX VM](https://github.com/gfusee/elrond-wasm-as) ⭐ 27 | 🐛 4 | 🌐 TypeScript | 📅 2024-03-12 - AssemblyScript smart contract library designed for Elrond's VM.
 * [Buildo Begins](https://github.com/xdevguild/buildo-begins) ⭐ 23 | 🐛 1 | 🌐 TypeScript | 📅 2023-12-29 - CLI tool that uses JS SDK. Its primary purpose is to simplify interaction with the Elrond blockchain and smart contracts - sending tokens, issuing, also API interactions - custom filtering and exports (still WIP, but functional)
-* [Elven Tools CLI](https://github.com/ElvenTools/elven-tools-cli) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-14 - The CLI tool for deploying and interacting with the [Elven Tools NFT Minter SC](https://github.com/ElvenTools/elven-nft-minter-sc) ⭐ 48 | 🐛 0 | 🌐 Rust | 📅 2024-04-18. But not only limited to that.
+* [Elven Tools CLI](https://github.com/ElvenTools/elven-tools-cli) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-14 - The CLI tool for deploying and interacting with the [Elven Tools NFT Minter SC](https://github.com/ElvenTools/elven-nft-minter-sc) ⭐ 47 | 🐛 0 | 🌐 Rust | 📅 2024-04-18. But not only limited to that.
 * [NovaX](https://github.com/gfusee/novax) ⭐ 21 | 🐛 24 | 🌐 Rust | 📅 2025-07-18 - NovaX is your go-to toolkit for building robust software seamlessly interacting with the MultiversX blockchain
 * [NextJS dApp template](https://github.com/Elrond-Giants/erd-next-starter) ⭐ 18 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-27 by [Elrond Giants](https://elrondgiants.com) - A dApp template made using JS SDK & nextjs
 * [xSuite](https://github.com/arda-org/xSuite) ⭐ 16 | 🐛 4 | 🌐 TypeScript | 📅 2025-07-21 - Init, Build, Test, Deploy MultiversX smart contracts in seconds. The full suite for efficiently developing high-quality contracts.
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

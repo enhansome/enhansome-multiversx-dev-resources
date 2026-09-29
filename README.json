@@ -537,7 +537,7 @@
                 "open_issues": 0,
                 "owner": "ElvenTools",
                 "repo": "elven-nft-minter-sc",
-                "stars": 48,
+                "stars": 47,
                 "topics": [
                   "blockchain",
                   "elrond",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:09:21.541Z",
+    "last_updated": "2026-09-29T20:54:36.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
@@ -1761,7 +1761,7 @@
       "open_issues": 0,
       "owner": "xdevguild",
       "repo": "awesome-multiversx-dev-resources",
-      "stars": 66,
+      "stars": 65,
       "topics": [
         "awesome-list",
         "blockchain",
