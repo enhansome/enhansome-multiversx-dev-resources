@@ -21,7 +21,7 @@
                 "open_issues": 43,
                 "owner": "multiversx",
                 "repo": "mx-sdk-rs",
-                "stars": 194,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
@@ -196,7 +196,7 @@
                 "open_issues": 43,
                 "owner": "multiversx",
                 "repo": "mx-sdk-rs",
-                "stars": 194,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:54:36.028Z",
+    "last_updated": "2026-09-30T20:52:47.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
