@@ -71,7 +71,7 @@
             {
               "node_type": "item",
               "title": "NFT Marketplace",
-              "description": null,
+              "description": "multiversx/mx-nft-marketplace-sc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -92,7 +92,7 @@
             {
               "node_type": "item",
               "title": "NFT Collection Minter",
-              "description": null,
+              "description": "multiversx/mx-nft-collection-minter-sc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -113,7 +113,7 @@
             {
               "node_type": "item",
               "title": "Liquid Staking",
-              "description": null,
+              "description": "multiversx/mx-liquid-staking-sc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -155,7 +155,7 @@
             {
               "node_type": "item",
               "title": "Metabonding",
-              "description": null,
+              "description": "multiversx/mx-metabonding-sc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -309,7 +309,7 @@
             {
               "node_type": "item",
               "title": "JS SDK examples",
-              "description": null,
+              "description": "multiversx/mx-sdk-js-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -387,7 +387,7 @@
             {
               "node_type": "item",
               "title": "Specifications for mx-sdk-* libraries",
-              "description": null,
+              "description": "multiversx/mx-sdk-specs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -860,7 +860,7 @@
             {
               "node_type": "item",
               "title": "JS SDK with NextJS dapp template",
-              "description": null,
+              "description": "xdevguild/nextjs-dapp-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1179,7 +1179,7 @@
             {
               "node_type": "item",
               "title": "ESDT Distribution script",
-              "description": null,
+              "description": "Combased/elrond-lkmex-distribution",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1251,7 +1251,7 @@
                 "id": 569113497,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-06-09T11:41:43Z",
+                "last_commit": "2026-10-03T04:26:34Z",
                 "open_issues": 0,
                 "owner": "Catenscia",
                 "repo": "MxOps",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:49:28.141Z",
+    "last_updated": "2026-10-03T04:59:57.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
