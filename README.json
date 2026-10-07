@@ -565,7 +565,7 @@
                 "open_issues": 1,
                 "owner": "xdevguild",
                 "repo": "piggy-bank-sc",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "blockchain",
                   "elrond",
@@ -1251,7 +1251,7 @@
                 "id": 569113497,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T04:26:34Z",
+                "last_commit": "2026-10-07T05:08:47Z",
                 "open_issues": 0,
                 "owner": "Catenscia",
                 "repo": "MxOps",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:03:49.241Z",
+    "last_updated": "2026-10-07T21:23:09.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",

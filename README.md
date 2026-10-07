@@ -150,7 +150,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 ### Smart contracts
 
 * [Elven Tools NFT Minter Smart Contract](https://github.com/ElvenTools/elven-nft-minter-sc) ⭐ 48 | 🐛 0 | 🌐 Rust | 📅 2024-04-18 - Mint and sell NFT collections. It has features like issue collection, setting creation role, pause/unpause, random minting, giveaway, split minting into batches, and more.
-* [Simple Piggybank Smart Contract](https://github.com/xdevguild/multiversx-simple-sc) ⭐ 17 | 🐛 1 | 🌐 Rust | 📅 2025-02-22 - smart contract for learning purposes
+* [Simple Piggybank Smart Contract](https://github.com/xdevguild/multiversx-simple-sc) ⭐ 18 | 🐛 1 | 🌐 Rust | 📅 2025-02-22 - smart contract for learning purposes
 * [MultiversX Lending & Borrowing Protocol](https://github.com/XOXNO/rs-lending) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2026-07-16 - where lending, borrowing, and managing your digital assets is not only secure and efficient, but also a fun and flexible experience!
 * [xBulk](https://github.com/defralcoding/xBulk) ⭐ 7 | 🐛 1 | 🌐 Rust | 📅 2025-02-17 - smart contract for handling bulk transactions
 * [AshSwap Aggregator Smart Contract](https://github.com/ashswap/ash-aggregator-sc) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2025-01-21 - Aggregator smart contracts act as an intermediary router to exchange tokens between multiple protocols.
@@ -186,7 +186,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 * [ESDT Distribution script](https://github.com/Combased/elrond-lkmex-distribution) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2022-08-21
 * [erd-react-hooks](https://github.com/Elrond-Giants/erd-react-hooks) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2023-10-31 by [Elrond Giants](https://elrondgiants.com) - This is a library of React hooks built for the MultiversX ecosystem. It aims to make it easy to authenticate, sign and send transactions, and query smart contracts.
 * [Elrondex](https://github.com/elrondex/elrondex) ⭐ 11 | 🐛 0 | 🌐 Elixir | 📅 2023-03-10 - Elixir library to interact with Elrond Blockchain
-* [MxOps](https://github.com/Catenscia/MxOps) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - Python package to automate MultiversX smart contracts interactions
+* [MxOps](https://github.com/Catenscia/MxOps) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-07 - Python package to automate MultiversX smart contracts interactions
 * [React + Vite dApp template](https://github.com/esdt-space/mx-dapp-template) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-16 - This template makes it easy to quickly get started building dApps on MultiversX, providing the basics for MultiversX authentication and transaction signing
 * [Rust SDK](https://github.com/bicarus-labs/elrond-sdk-erdrs) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2023-12-29 - Elrond Rust SDK for interacting with the Elrond Network and Smart Contracts.
 * [erdjs-auth](https://github.com/Elrond-Giants/erdjs-auth) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-20 by [Elrond Giants](https://elrondgiants.com) - This library aims to make it easy to authenticate and sign transactions. It offers a common interface for all auth providers.
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
