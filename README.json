@@ -1518,7 +1518,7 @@
                 "id": 631631452,
                 "language": "Go",
                 "license": null,
-                "last_commit": "2024-09-18T07:38:57Z",
+                "last_commit": "2026-10-08T21:55:23Z",
                 "open_issues": 0,
                 "owner": "stakingagency",
                 "repo": "sa-mx-sdk-go",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T21:23:50.709Z",
+    "last_updated": "2026-10-09T21:02:03.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",

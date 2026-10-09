@@ -197,7 +197,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 * [Rust Utilities by Angry-Penguins-Colony](https://github.com/Angry-Penguins-Colony/mx-rust-utilities) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2023-01-31 - Utilities to manipulate ManagedBuffer, ManagedVec and array
 * [Mx.NET.SDK.WalletProviders](https://github.com/RemarkableTools/Mx.NET.SDK.WalletProviders) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2024-06-30 - MultiversX .NET SDK: Unique library for interacting with Wallet Providers. Create connection and sign transactions.
 * [mxbi](https://github.com/VortX-DAO/mxbi) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2023-08-16 - mxbi is a command-line interface (CLI) tool that generates graphql backend code for MX smart contract endpoints
-* [Golang SDK](https://github.com/stakingagency/sa-mx-sdk-go) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2024-09-18 - MultiversX Golang SDK by Staking Agency
+* [Golang SDK](https://github.com/stakingagency/sa-mx-sdk-go) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-10-08 - MultiversX Golang SDK by Staking Agency
 * [mx-chain-simulator-interface-rs](https://github.com/gfusee/mx-chain-simulator-interface-rs) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-04-04 - Rust crate that allows you to create a local blockchain in the simulation mode in seconds.
 * [JS SDK with VueJS dapp template](https://github.com/stephaneLeroy/vue-erdjs)
 * [elrond-sft](https://www.npmjs.com/package/elrond-sft) by [Elrond Giants](https://elrondgiants.com) - A CLI tool you can use to execute SFT-related operations like issue token, set roles, mint, add quantity, burn, airdrops
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
