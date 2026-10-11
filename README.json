@@ -84,7 +84,7 @@
                 "open_issues": 1,
                 "owner": "multiversx",
                 "repo": "mx-nft-marketplace-sc",
-                "stars": 21,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
@@ -873,7 +873,7 @@
                 "open_issues": 1,
                 "owner": "xdevguild",
                 "repo": "nextjs-dapp-template",
-                "stars": 50,
+                "stars": 49,
                 "topics": [
                   "blockchain",
                   "elrond",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:10:22.440Z",
+    "last_updated": "2026-10-11T20:23:51.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
