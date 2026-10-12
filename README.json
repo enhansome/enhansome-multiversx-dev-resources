@@ -453,7 +453,7 @@
                 "id": 352973686,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T12:48:33Z",
+                "last_commit": "2026-10-12T09:56:50Z",
                 "open_issues": 2,
                 "owner": "multiversx",
                 "repo": "mx-nft-service",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:23:51.916Z",
+    "last_updated": "2026-10-12T23:04:54.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
