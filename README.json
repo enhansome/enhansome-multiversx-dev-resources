@@ -478,7 +478,7 @@
                 "id": 354647611,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T13:39:38Z",
+                "last_commit": "2026-10-13T18:08:33Z",
                 "open_issues": 13,
                 "owner": "multiversx",
                 "repo": "mx-exchange-service",
@@ -1157,27 +1157,6 @@
             },
             {
               "node_type": "item",
-              "title": "MultiversX API Deployer",
-              "description": "Effortlessly deploy a complete infrastructure to run your own MultiversX API in just a few steps.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 899175700,
-                "language": "Shell",
-                "license": "MIT",
-                "last_commit": "2025-03-24T23:11:00Z",
-                "open_issues": 12,
-                "owner": "PhyByte",
-                "repo": "mvx-api-deployer",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:35:43.337Z"
-            },
-            {
-              "node_type": "item",
               "title": "ESDT Distribution script",
               "description": "Combased/elrond-lkmex-distribution",
               "children": [],
@@ -1192,6 +1171,27 @@
                 "open_issues": 0,
                 "owner": "Combased",
                 "repo": "elrond-lkmex-distribution",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MultiversX API Deployer",
+              "description": "Effortlessly deploy a complete infrastructure to run your own MultiversX API in just a few steps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 899175700,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2025-03-24T23:11:00Z",
+                "open_issues": 12,
+                "owner": "PhyByte",
+                "repo": "mvx-api-deployer",
                 "stars": 13,
                 "topics": []
               },
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:04:54.579Z",
+    "last_updated": "2026-10-13T21:21:24.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
