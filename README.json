@@ -478,7 +478,7 @@
                 "id": 354647611,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T18:08:33Z",
+                "last_commit": "2026-10-14T08:51:29Z",
                 "open_issues": 13,
                 "owner": "multiversx",
                 "repo": "mx-exchange-service",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:21:24.516Z",
+    "last_updated": "2026-10-14T20:15:13.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
