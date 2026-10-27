@@ -170,7 +170,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 
 ### SDKs and dev tools
 
-* [JS SDK with NextJS dapp template](https://github.com/xdevguild/nextjs-dapp-template) ⭐ 49 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-30
+* [JS SDK with NextJS dapp template](https://github.com/xdevguild/nextjs-dapp-template) ⭐ 48 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-30
 * [AssemblyScript framework for MultiversX VM](https://github.com/gfusee/elrond-wasm-as) ⭐ 27 | 🐛 4 | 🌐 TypeScript | 📅 2024-03-12 - AssemblyScript smart contract library designed for Elrond's VM.
 * [Buildo Begins](https://github.com/xdevguild/buildo-begins) ⭐ 23 | 🐛 1 | 🌐 TypeScript | 📅 2023-12-29 - CLI tool that uses JS SDK. Its primary purpose is to simplify interaction with the Elrond blockchain and smart contracts - sending tokens, issuing, also API interactions - custom filtering and exports (still WIP, but functional)
 * [Elven Tools CLI](https://github.com/ElvenTools/elven-tools-cli) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-14 - The CLI tool for deploying and interacting with the [Elven Tools NFT Minter SC](https://github.com/ElvenTools/elven-nft-minter-sc) ⭐ 48 | 🐛 0 | 🌐 Rust | 📅 2024-04-18. But not only limited to that.
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
