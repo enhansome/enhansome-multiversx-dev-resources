@@ -178,10 +178,10 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 * [NextJS dApp template](https://github.com/Elrond-Giants/erd-next-starter) ⭐ 18 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-27 by [Elrond Giants](https://elrondgiants.com) - A dApp template made using JS SDK & nextjs
 * [xSuite](https://github.com/arda-org/xSuite) ⭐ 16 | 🐛 4 | 🌐 TypeScript | 📅 2025-07-21 - Init, Build, Test, Deploy MultiversX smart contracts in seconds. The full suite for efficiently developing high-quality contracts.
 * [xNetwork](https://github.com/gfusee/xnetwork) ⭐ 15 | 🐛 2 | 🌐 TypeScript | 📅 2024-03-15 - This project provides an easy way to run a local testnet of MultiversX and its associated API, with no configuration required
+* [Spring Boot Starter Reactive](https://github.com/crldev-software/multiversx-spring-boot-starter-reactive) ⭐ 15 | 🐛 0 | 🌐 Java | 📅 2023-10-05 - Spring Boot Starter project for integrating with the MultiversX Network, with the goal of achieving an effortless autoconfigured integration with the network.
 * [MultiversX Unity Tools](https://github.com/chainofindustry/MultiversXUnityTools) ⭐ 14 | 🐛 3 | 🌐 C# | 📅 2023-09-21 - A work-in-progress set of tools to interact with MultiversX Blockchain directly from a Unity app.
 * [MultiversX SDK for Laravel](https://github.com/PeerMeHQ/mx-sdk-laravel) ⭐ 14 | 🐛 0 | 🌐 PHP | 📅 2025-05-05 - MultiversX SDK for Laravel (written in PHP)
 * [ABI2API](https://github.com/SkullElf/ABI2API) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2023-08-07 - ABI2API is a Python library for converting smart contract ABI (Application Binary Interface) on the MultiversX blockchain into a RESTful API
-* [Spring Boot Starter Reactive](https://github.com/crldev-software/multiversx-spring-boot-starter-reactive) ⭐ 14 | 🐛 0 | 🌐 Java | 📅 2023-10-05 - Spring Boot Starter project for integrating with the MultiversX Network, with the goal of achieving an effortless autoconfigured integration with the network.
 * [ESDT Distribution script](https://github.com/Combased/elrond-lkmex-distribution) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2022-08-21
 * [MultiversX API Deployer](https://github.com/PhyByte/mvx-api-deployer) ⭐ 13 | 🐛 12 | 🌐 Shell | 📅 2025-03-24 - Effortlessly deploy a complete infrastructure to run your own MultiversX API in just a few steps.
 * [erd-react-hooks](https://github.com/Elrond-Giants/erd-react-hooks) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2023-10-31 by [Elrond Giants](https://elrondgiants.com) - This is a library of React hooks built for the MultiversX ecosystem. It aims to make it easy to authenticate, sign and send transactions, and query smart contracts.
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

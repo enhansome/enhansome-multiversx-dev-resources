@@ -1056,6 +1056,31 @@
             },
             {
               "node_type": "item",
+              "title": "Spring Boot Starter Reactive",
+              "description": "Spring Boot Starter project for integrating with the MultiversX Network, with the goal of achieving an effortless autoconfigured integration with the network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Spring Boot Starter Reactive for MultiversX Network integration ",
+                "homepage": null,
+                "id": 410107912,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2023-10-05T11:17:15Z",
+                "open_issues": 0,
+                "owner": "ezalabs",
+                "repo": "multiversx-spring-boot-starter-reactive",
+                "stars": 15,
+                "topics": [
+                  "blockchain",
+                  "multiversx",
+                  "spring-boot-starter"
+                ]
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
+            },
+            {
+              "node_type": "item",
               "title": "MultiversX Unity Tools",
               "description": "A work-in-progress set of tools to interact with MultiversX Blockchain directly from a Unity app.",
               "children": [],
@@ -1126,31 +1151,6 @@
                 "stars": 14,
                 "topics": [
                   "twitter"
-                ]
-              },
-              "first_seen": "2026-08-29T00:35:43.337Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Spring Boot Starter Reactive",
-              "description": "Spring Boot Starter project for integrating with the MultiversX Network, with the goal of achieving an effortless autoconfigured integration with the network.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Spring Boot Starter Reactive for MultiversX Network integration ",
-                "homepage": null,
-                "id": 410107912,
-                "language": "Java",
-                "license": "MIT",
-                "last_commit": "2023-10-05T11:17:15Z",
-                "open_issues": 0,
-                "owner": "ezalabs",
-                "repo": "multiversx-spring-boot-starter-reactive",
-                "stars": 14,
-                "topics": [
-                  "blockchain",
-                  "multiversx",
-                  "spring-boot-starter"
                 ]
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:48:02.872Z",
+    "last_updated": "2026-10-28T21:11:42.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
