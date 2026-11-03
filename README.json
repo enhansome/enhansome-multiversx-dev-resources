@@ -213,7 +213,7 @@
                 "id": 371370749,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-27T08:48:58Z",
+                "last_commit": "2026-11-03T12:18:00Z",
                 "open_issues": 6,
                 "owner": "multiversx",
                 "repo": "mx-sdk-py-cli",
@@ -234,7 +234,7 @@
                 "id": 432991695,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T14:55:10Z",
+                "last_commit": "2026-11-03T15:57:24Z",
                 "open_issues": 0,
                 "owner": "multiversx",
                 "repo": "mx-sdk-dapp",
@@ -255,8 +255,8 @@
                 "id": 371399014,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T08:10:18Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-03T14:03:12Z",
+                "open_issues": 12,
                 "owner": "multiversx",
                 "repo": "mx-sdk-js-core",
                 "stars": 73,
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:37:54.632Z",
+    "last_updated": "2026-11-03T21:51:33.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
