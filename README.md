@@ -33,7 +33,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 ### Smart contracts
 
 * [Smart Contract examples](https://github.com/multiversx/mx-sdk-rs/tree/master/contracts/examples) ⭐ 193 | 🐛 44 | 🌐 Rust | 📅 2026-11-11 - A bunch of useful smart contract examples from the MultiversX team
-* [Exchange](https://github.com/multiversx/mx-exchange-sc) ⭐ 106 | 🐛 44 | 🌐 Rust | 📅 2026-11-11 - These are the core Smart Contracts and the foundation exchange.
+* [Exchange](https://github.com/multiversx/mx-exchange-sc) ⭐ 106 | 🐛 44 | 🌐 Rust | 📅 2026-11-12 - These are the core Smart Contracts and the foundation exchange.
 * [Ethereum bridge](https://github.com/multiversx/mx-bridge-eth-sc-rs) ⭐ 23 | 🐛 9 | 🌐 Rust | 📅 2025-10-09 - Smart Contracts on the MultiversX side for MultiversX-Ethereum bridge.
 * [NFT Marketplace](https://github.com/multiversx/mx-nft-marketplace-sc) ⭐ 20 | 🐛 1 | 🌐 Rust | 📅 2023-02-01
 * [NFT Collection Minter](https://github.com/multiversx/mx-nft-collection-minter-sc) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2025-04-11
@@ -111,7 +111,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 
 * [MultiversX dApp template](https://github.com/multiversx/mx-template-dapp) ⭐ 221 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-31 - The official dApp template provided by the MultiversX team using React.js & Typescript. It's a basic implementation of [@multiversx/sdk-dapp](https://www.npmjs.com/package/@multiversx/sdk-dapp), providing the basics for MultiversX authentication and TX signing.
 * [NFT service](https://github.com/multiversx/mx-nft-service) ⭐ 14 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-21 - GraphQl service to provide information regarding NFTs and auctions on MultiversX Blockchain
-* [xExchange service](https://github.com/multiversx/mx-exchange-service) ⭐ 14 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-11 - Decentralized Exchange Service based on GraphQL
+* [xExchange service](https://github.com/multiversx/mx-exchange-service) ⭐ 14 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-12 - Decentralized Exchange Service based on GraphQL
 * [Trusted Co-Signer Service](https://github.com/multiversx/mx-multi-factor-auth-go-service) ⭐ 3 | 🐛 2 | 🌐 Go | 📅 2026-08-25 - It is the component that automates most of the Guardian processes and makes it easy for users to turn wallets into unbreakable vaults
 * [Latest MultiversX Releases](https://multiversx.com/releases) - The feed to help you catch up with the latest releases
 * [MultiversX Utils](https://utils.multiversx.com/) - This page offers an easy-to-use pack of utilities necessary for interacting with the MultiversX Blockchain
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

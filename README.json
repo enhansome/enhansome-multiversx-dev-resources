@@ -38,7 +38,7 @@
                 "id": 342608525,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T07:04:09Z",
+                "last_commit": "2026-11-12T15:58:46Z",
                 "open_issues": 44,
                 "owner": "multiversx",
                 "repo": "mx-exchange-sc",
@@ -478,7 +478,7 @@
                 "id": 354647611,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T08:53:07Z",
+                "last_commit": "2026-11-12T13:31:19Z",
                 "open_issues": 14,
                 "owner": "multiversx",
                 "repo": "mx-exchange-service",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:53:18.785Z",
+    "last_updated": "2026-11-12T22:18:44.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
