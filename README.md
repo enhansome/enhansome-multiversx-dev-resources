@@ -32,8 +32,8 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 
 ### Smart contracts
 
-* [Smart Contract examples](https://github.com/multiversx/mx-sdk-rs/tree/master/contracts/examples) ⭐ 193 | 🐛 44 | 🌐 Rust | 📅 2026-11-11 - A bunch of useful smart contract examples from the MultiversX team
-* [Exchange](https://github.com/multiversx/mx-exchange-sc) ⭐ 106 | 🐛 44 | 🌐 Rust | 📅 2026-11-12 - These are the core Smart Contracts and the foundation exchange.
+* [Smart Contract examples](https://github.com/multiversx/mx-sdk-rs/tree/master/contracts/examples) ⭐ 193 | 🐛 46 | 🌐 Rust | 📅 2026-11-13 - A bunch of useful smart contract examples from the MultiversX team
+* [Exchange](https://github.com/multiversx/mx-exchange-sc) ⭐ 106 | 🐛 43 | 🌐 Rust | 📅 2026-11-13 - These are the core Smart Contracts and the foundation exchange.
 * [Ethereum bridge](https://github.com/multiversx/mx-bridge-eth-sc-rs) ⭐ 23 | 🐛 9 | 🌐 Rust | 📅 2025-10-09 - Smart Contracts on the MultiversX side for MultiversX-Ethereum bridge.
 * [NFT Marketplace](https://github.com/multiversx/mx-nft-marketplace-sc) ⭐ 20 | 🐛 1 | 🌐 Rust | 📅 2023-02-01
 * [NFT Collection Minter](https://github.com/multiversx/mx-nft-collection-minter-sc) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2025-04-11
@@ -43,7 +43,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 
 ### SDKs and dev tools
 
-* [Wasm framework](https://github.com/multiversx/mx-sdk-rs) ⭐ 193 | 🐛 44 | 🌐 Rust | 📅 2026-11-11 - Rust smart contract library designed for MultiversX VM. Also provides a debugging mode with mocks
+* [Wasm framework](https://github.com/multiversx/mx-sdk-rs) ⭐ 193 | 🐛 46 | 🌐 Rust | 📅 2026-11-13 - Rust smart contract library designed for MultiversX VM. Also provides a debugging mode with mocks
 * [Python SDK](https://github.com/multiversx/mx-sdk-py-cli) ⭐ 190 | 🐛 6 | 🌐 Python | 📅 2026-11-03 - Command line tools and Python SDK for interacting with the MultiversX Network and MultiversX Smart Contracts
 * [React Dapp SDK](https://github.com/multiversx/mx-sdk-dapp) ⭐ 85 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 - A library that holds the core functional logic of a dapp on the MultiversX
 * [Javascript SDK](https://github.com/multiversx/mx-sdk-js-core) ⭐ 73 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-10 - Official TS/JS SDK for interacting with the MultiversX Network and MultiversX Smart Contracts using Javascript (written in Typescript)
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
