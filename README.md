@@ -46,7 +46,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 * [Wasm framework](https://github.com/multiversx/mx-sdk-rs) ⭐ 193 | 🐛 47 | 🌐 Rust | 📅 2026-11-16 - Rust smart contract library designed for MultiversX VM. Also provides a debugging mode with mocks
 * [Python SDK](https://github.com/multiversx/mx-sdk-py-cli) ⭐ 189 | 🐛 6 | 🌐 Python | 📅 2026-11-03 - Command line tools and Python SDK for interacting with the MultiversX Network and MultiversX Smart Contracts
 * [React Dapp SDK](https://github.com/multiversx/mx-sdk-dapp) ⭐ 85 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-16 - A library that holds the core functional logic of a dapp on the MultiversX
-* [Javascript SDK](https://github.com/multiversx/mx-sdk-js-core) ⭐ 73 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-18 - Official TS/JS SDK for interacting with the MultiversX Network and MultiversX Smart Contracts using Javascript (written in Typescript)
+* [Javascript SDK](https://github.com/multiversx/mx-sdk-js-core) ⭐ 73 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-19 - Official TS/JS SDK for interacting with the MultiversX Network and MultiversX Smart Contracts using Javascript (written in Typescript)
 * [Go SDK](https://github.com/multiversx/mx-sdk-go) ⭐ 17 | 🐛 14 | 🌐 Go | 📅 2026-08-21 - Go helpers and utilities for interacting with the MultiversX Blockchain
 * [NestJS SDK](https://github.com/multiversx/mx-sdk-nestjs) ⭐ 13 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-07 - This package contains a set of utilities commonly used in the MultiversX Microservice ecosystem
 * [JS SDK examples](https://github.com/multiversx/mx-sdk-js-examples) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2025-08-20
@@ -110,9 +110,9 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 ### Dev dApps
 
 * [MultiversX dApp template](https://github.com/multiversx/mx-template-dapp) ⭐ 221 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-31 - The official dApp template provided by the MultiversX team using React.js & Typescript. It's a basic implementation of [@multiversx/sdk-dapp](https://www.npmjs.com/package/@multiversx/sdk-dapp), providing the basics for MultiversX authentication and TX signing.
-* [NFT service](https://github.com/multiversx/mx-nft-service) ⭐ 14 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-21 - GraphQl service to provide information regarding NFTs and auctions on MultiversX Blockchain
-* [xExchange service](https://github.com/multiversx/mx-exchange-service) ⭐ 14 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-18 - Decentralized Exchange Service based on GraphQL
-* [Trusted Co-Signer Service](https://github.com/multiversx/mx-multi-factor-auth-go-service) ⭐ 3 | 🐛 2 | 🌐 Go | 📅 2026-11-18 - It is the component that automates most of the Guardian processes and makes it easy for users to turn wallets into unbreakable vaults
+* [NFT service](https://github.com/multiversx/mx-nft-service) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-19 - GraphQl service to provide information regarding NFTs and auctions on MultiversX Blockchain
+* [xExchange service](https://github.com/multiversx/mx-exchange-service) ⭐ 14 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-19 - Decentralized Exchange Service based on GraphQL
+* [Trusted Co-Signer Service](https://github.com/multiversx/mx-multi-factor-auth-go-service) ⭐ 3 | 🐛 3 | 🌐 Go | 📅 2026-11-19 - It is the component that automates most of the Guardian processes and makes it easy for users to turn wallets into unbreakable vaults
 * [Latest MultiversX Releases](https://multiversx.com/releases) - The feed to help you catch up with the latest releases
 * [MultiversX Utils](https://utils.multiversx.com/) - This page offers an easy-to-use pack of utilities necessary for interacting with the MultiversX Blockchain
 * [MultiversX Status page](https://status.multiversx.com/) - real-time status for public MultiversX services
@@ -161,8 +161,8 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 * [ESDT Faucet SC](https://github.com/xdevguild/esdt-faucet-sc) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2024-03-10 - ESDT Faucet - claim, deposit ESDT tokens
 * [Fundraising-SC](https://github.com/Vital-Network/Fundraising-SC) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2023-05-08 - MultiversX Fundraising Smart Contract allowing the creation of pots with or without objectives, with or without deadlines.
 * [Vesting SC](https://github.com/Moonlorian/vesting-dapp/tree/main/sc) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-01 - Token vesting smart contract
-* [Nifty Maze & Proxy Ping Smart Contracts](https://github.com/NiftyWell/nifty-maze/tree/main) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-11-17 - smart-contract-based mini-game
 * [PublicFlashLoansSC](https://github.com/PierreBlg/PublicFlashLoansSC) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2023-11-15 - Flash Loans on top of MultiversX xExchange
+* [Nifty Maze & Proxy Ping Smart Contracts](https://github.com/NiftyWell/nifty-maze/tree/main) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2024-11-17 - smart-contract-based mini-game
 * [Middleman.nft Smart Contract](https://github.com/yum0e/middleman-nft) - Create or delete offers for a P2P exchange between two known users. Simple smart contract and its associated snippets.
 * [eNftMemes Smart Contracts](https://github.com/eNftMemes/memes-sc) - Smart contracts code for the <https://enftmemes.com>. Includes decentralized voting, computing of a Top 10 based on votes, creating NFT & updating attributes, signature verification with example, etc
 * [CoinDrip Protocol](https://github.com/CoinDrip-finance/coindrip-protocol-sc) - Token (ESDT) streaming smart contract
@@ -189,9 +189,9 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 * [MxOps](https://github.com/Catenscia/MxOps) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-07 - Python package to automate MultiversX smart contracts interactions
 * [React + Vite dApp template](https://github.com/esdt-space/mx-dapp-template) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-16 - This template makes it easy to quickly get started building dApps on MultiversX, providing the basics for MultiversX authentication and transaction signing
 * [Rust SDK](https://github.com/bicarus-labs/elrond-sdk-erdrs) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2023-12-29 - Elrond Rust SDK for interacting with the Elrond Network and Smart Contracts.
-* [erdjs-auth](https://github.com/Elrond-Giants/erdjs-auth) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-20 by [Elrond Giants](https://elrondgiants.com) - This library aims to make it easy to authenticate and sign transactions. It offers a common interface for all auth providers.
+* [erdjs-auth](https://github.com/Elrond-Giants/erdjs-auth) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-20 by [Elrond Giants](https://elrondgiants.com) - This library aims to make it easy to authenticate and sign transactions. It offers a common interface for all auth providers.
 * [Mx.NET.SDK](https://github.com/RemarkableTools/Mx.NET.SDK) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2024-12-16 - MultiversX .NET SDK: Complex library for interacting with MultiversX blockchain
-* [Mx.Blazor.DApp](https://github.com/RemarkableTools/Mx.Blazor.DApp) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-03-29 - Blazor DApp is a template application built using the Blazor UI framework and ASP.NET Core server application
+* [Mx.Blazor.DApp](https://github.com/RemarkableTools/Mx.Blazor.DApp) ⭐ 6 | 🐛 0 | 🌐 C# | 📅 2026-11-19 - Blazor DApp is a template application built using the Blazor UI framework and ASP.NET Core server application
 * [ABIExtractor](https://github.com/SkullElf/ABIExtractor) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-08-16 - ABI Extractor is a Python tool designed to extract ABI JSONs, and smart contract (SC) addresses from dApp JavaScript files.
 * [LKMEX airdrop](https://github.com/xdevguild/esdt-and-lkmek-airdrop-scripts) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-03-21 - Python script that performs an airdrop of LKMEX to NFT holders
 * [Rust Utilities by Angry-Penguins-Colony](https://github.com/Angry-Penguins-Colony/mx-rust-utilities) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2023-01-31 - Utilities to manipulate ManagedBuffer, ManagedVec and array
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

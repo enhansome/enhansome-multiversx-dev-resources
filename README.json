@@ -255,8 +255,8 @@
                 "id": 371399014,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T12:57:48Z",
-                "open_issues": 21,
+                "last_commit": "2026-11-19T13:36:16Z",
+                "open_issues": 22,
                 "owner": "multiversx",
                 "repo": "mx-sdk-js-core",
                 "stars": 73,
@@ -453,8 +453,8 @@
                 "id": 352973686,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-21T20:20:14Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-19T10:35:22Z",
+                "open_issues": 0,
                 "owner": "multiversx",
                 "repo": "mx-nft-service",
                 "stars": 14,
@@ -478,8 +478,8 @@
                 "id": 354647611,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T13:29:25Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-19T08:32:31Z",
+                "open_issues": 13,
                 "owner": "multiversx",
                 "repo": "mx-exchange-service",
                 "stars": 14,
@@ -499,8 +499,8 @@
                 "id": 526187995,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-18T13:21:31Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-19T07:39:44Z",
+                "open_issues": 3,
                 "owner": "multiversx",
                 "repo": "mx-multi-factor-auth-go-service",
                 "stars": 3,
@@ -810,27 +810,6 @@
             },
             {
               "node_type": "item",
-              "title": "Nifty Maze & Proxy Ping Smart Contracts",
-              "description": "smart-contract-based mini-game",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Nifty Maze & Proxy Ping Smart Contracts",
-                "homepage": null,
-                "id": 672286361,
-                "language": "Rust",
-                "license": "GPL-3.0",
-                "last_commit": "2024-11-17T23:05:41Z",
-                "open_issues": 0,
-                "owner": "NiftyWell",
-                "repo": "nifty-maze",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:35:43.337Z"
-            },
-            {
-              "node_type": "item",
               "title": "PublicFlashLoansSC",
               "description": "Flash Loans on top of MultiversX xExchange",
               "children": [],
@@ -846,6 +825,27 @@
                 "owner": "PierreBlg",
                 "repo": "PublicFlashLoansSC",
                 "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:35:43.337Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Nifty Maze & Proxy Ping Smart Contracts",
+              "description": "smart-contract-based mini-game",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Nifty Maze & Proxy Ping Smart Contracts",
+                "homepage": null,
+                "id": 672286361,
+                "language": "Rust",
+                "license": "GPL-3.0",
+                "last_commit": "2024-11-17T23:05:41Z",
+                "open_issues": 0,
+                "owner": "NiftyWell",
+                "repo": "nifty-maze",
+                "stars": 0,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
@@ -1333,7 +1333,7 @@
                 "open_issues": 0,
                 "owner": "elrond-giants",
                 "repo": "erdjs-auth",
-                "stars": 7,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.337Z"
@@ -1376,7 +1376,7 @@
                 "id": 599703287,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-03-29T19:55:48Z",
+                "last_commit": "2026-11-19T14:36:18Z",
                 "open_issues": 0,
                 "owner": "RemarkableTools",
                 "repo": "Mx.Blazor.DApp",
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:58:36.037Z",
+    "last_updated": "2026-11-19T23:07:14.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
