@@ -255,8 +255,8 @@
                 "id": 371399014,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-23T10:06:16Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-24T13:04:37Z",
+                "open_issues": 21,
                 "owner": "multiversx",
                 "repo": "mx-sdk-js-core",
                 "stars": 73,
@@ -297,8 +297,8 @@
                 "id": 507946518,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T11:41:36Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-24T12:35:11Z",
+                "open_issues": 12,
                 "owner": "multiversx",
                 "repo": "mx-sdk-nestjs",
                 "stars": 13,
@@ -1749,7 +1749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:57:32.712Z",
+    "last_updated": "2026-11-25T00:54:09.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome MultiversX dev resources: Smart contracts, SDKs, dev libraries, articles, tutorials, all other dev stuff.",
