@@ -38,7 +38,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 * [NFT Marketplace](https://github.com/multiversx/mx-nft-marketplace-sc) ⭐ 20 | 🐛 1 | 🌐 Rust | 📅 2023-02-01
 * [NFT Collection Minter](https://github.com/multiversx/mx-nft-collection-minter-sc) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2025-04-11
 * [Liquid Staking](https://github.com/multiversx/mx-liquid-staking-sc) ⭐ 6 | 🐛 1 | 🌐 Rust | 📅 2025-10-21
-* [xExchange tools](https://github.com/multiversx/mx-exchange-tools-sc) ⭐ 5 | 🐛 9 | 🌐 Rust | 📅 2026-11-25 - Smart contracts on top of the xExchange functionality as extensions for better UX
+* [xExchange tools](https://github.com/multiversx/mx-exchange-tools-sc) ⭐ 5 | 🐛 8 | 🌐 Rust | 📅 2026-11-27 - Smart contracts on top of the xExchange functionality as extensions for better UX
 * [Metabonding](https://github.com/multiversx/mx-metabonding-sc) ⭐ 1 | 🐛 4 | 🌐 Rust | 📅 2025-07-28
 
 ### SDKs and dev tools
@@ -48,7 +48,7 @@ Smart contracts, SDKs, dev libraries, articles, tutorials, and all other dev stu
 * [React Dapp SDK](https://github.com/multiversx/mx-sdk-dapp) ⭐ 85 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-16 - A library that holds the core functional logic of a dapp on the MultiversX
 * [Javascript SDK](https://github.com/multiversx/mx-sdk-js-core) ⭐ 73 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-26 - Official TS/JS SDK for interacting with the MultiversX Network and MultiversX Smart Contracts using Javascript (written in Typescript)
 * [Go SDK](https://github.com/multiversx/mx-sdk-go) ⭐ 17 | 🐛 14 | 🌐 Go | 📅 2026-08-21 - Go helpers and utilities for interacting with the MultiversX Blockchain
-* [NestJS SDK](https://github.com/multiversx/mx-sdk-nestjs) ⭐ 13 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-26 - This package contains a set of utilities commonly used in the MultiversX Microservice ecosystem
+* [NestJS SDK](https://github.com/multiversx/mx-sdk-nestjs) ⭐ 13 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-27 - This package contains a set of utilities commonly used in the MultiversX Microservice ecosystem
 * [JS SDK examples](https://github.com/multiversx/mx-sdk-js-examples) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2025-08-20
 * [PHP SDK](https://github.com/multiversx/mx-sdk-php) ⭐ 6 | 🐛 0 | 🌐 PHP | 📅 2025-10-22 - MultiversX PHP SDK for interacting with the MultiversX blockchain (in general) and Smart Contracts (in particular).
 * [Dapp SC Explorer SDK](https://github.com/multiversx/mx-sdk-dapp-sc-explorer) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-26 - A library to hold the main logic for Smart Contract Interactions on the MultiversX blockchain
@@ -111,7 +111,7 @@ Please be aware that videos can be outdated. Always verify them with the docs.
 
 * [MultiversX dApp template](https://github.com/multiversx/mx-template-dapp) ⭐ 221 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-31 - The official dApp template provided by the MultiversX team using React.js & Typescript. It's a basic implementation of [@multiversx/sdk-dapp](https://www.npmjs.com/package/@multiversx/sdk-dapp), providing the basics for MultiversX authentication and TX signing.
 * [NFT service](https://github.com/multiversx/mx-nft-service) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-19 - GraphQl service to provide information regarding NFTs and auctions on MultiversX Blockchain
-* [xExchange service](https://github.com/multiversx/mx-exchange-service) ⭐ 14 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-26 - Decentralized Exchange Service based on GraphQL
+* [xExchange service](https://github.com/multiversx/mx-exchange-service) ⭐ 14 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-27 - Decentralized Exchange Service based on GraphQL
 * [Trusted Co-Signer Service](https://github.com/multiversx/mx-multi-factor-auth-go-service) ⭐ 3 | 🐛 3 | 🌐 Go | 📅 2026-11-26 - It is the component that automates most of the Guardian processes and makes it easy for users to turn wallets into unbreakable vaults
 * [Latest MultiversX Releases](https://multiversx.com/releases) - The feed to help you catch up with the latest releases
 * [MultiversX Utils](https://utils.multiversx.com/) - This page offers an easy-to-use pack of utilities necessary for interacting with the MultiversX Blockchain
@@ -301,4 +301,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
